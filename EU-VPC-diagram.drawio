@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-07T16:02:38.737Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="H0y1yCU0dCJjr_S7V_rf" version="12.2.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-07T16:04:23.840Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="s6oi2bqAq6zy_k2xjXW0" version="12.2.2" type="github" pages="1">
   <diagram id="4uRVFsyQm0KmxqMWwmNr" name="Page-1">
     <mxGraphModel dx="1062" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -71,7 +71,7 @@
           <mxGeometry x="209.5" y="760" width="457" height="172" as="geometry"/>
         </mxCell>
         <mxCell id="N2LqG0-nj7z7RjuAbN2V-6" value="AZ 1a" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;align=left;" vertex="1" parent="N2LqG0-nj7z7RjuAbN2V-4">
-          <mxGeometry x="209.5" y="360" width="407" height="150" as="geometry"/>
+          <mxGeometry x="210" y="360" width="521" height="150" as="geometry"/>
         </mxCell>
         <mxCell id="N2LqG0-nj7z7RjuAbN2V-7" value="AZ 1b" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;align=left;" vertex="1" parent="N2LqG0-nj7z7RjuAbN2V-4">
           <mxGeometry x="209.5" y="560" width="457" height="172" as="geometry"/>
@@ -129,6 +129,12 @@
         </mxCell>
         <mxCell id="N2LqG0-nj7z7RjuAbN2V-28" value="cron / bastion" style="outlineConnect=0;fontColor=#FF8000;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=1;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ec2;labelBackgroundColor=none;" vertex="1" parent="N2LqG0-nj7z7RjuAbN2V-36">
           <mxGeometry x="42.5" y="34" width="44" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="N2LqG0-nj7z7RjuAbN2V-37" value="&lt;font color=&quot;#6600cc&quot;&gt;&lt;b&gt;Writer&lt;/b&gt;&lt;/font&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3334B9;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.aurora_instance;labelBackgroundColor=none;" vertex="1" parent="N2LqG0-nj7z7RjuAbN2V-4">
+          <mxGeometry x="630" y="370" width="50" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="N2LqG0-nj7z7RjuAbN2V-38" value="&lt;font color=&quot;#6600cc&quot;&gt;&lt;b&gt;Reader&lt;/b&gt;&lt;/font&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3334B9;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.aurora_instance;labelBackgroundColor=none;" vertex="1" parent="N2LqG0-nj7z7RjuAbN2V-4">
+          <mxGeometry x="540" y="584" width="50" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
