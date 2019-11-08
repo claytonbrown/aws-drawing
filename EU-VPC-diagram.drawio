@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-08T09:09:50.001Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="Zo-e5TfADdoGDFLLFnWD" version="12.2.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-08T09:10:58.404Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="_62Nxq7Kq2AO9c2A2VW-" version="12.2.2" type="github" pages="1">
   <diagram id="4uRVFsyQm0KmxqMWwmNr" name="Page-1">
     <mxGraphModel dx="768" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,13 +10,7 @@
         <mxCell id="8aeaqcqeNkye2ldPFs5D-1" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" parent="N2LqG0-nj7z7RjuAbN2V-1" vertex="1">
           <mxGeometry x="76" y="20" width="740" height="1010" as="geometry"/>
         </mxCell>
-        <mxCell id="0vmh4POg4geOitYVOq-g-2" value="&lt;font color=&quot;#007fff&quot;&gt;node redis prod2 pour site abonnement&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="N2LqG0-nj7z7RjuAbN2V-1">
-          <mxGeometry x="65" y="1082.5" width="230" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="0vmh4POg4geOitYVOq-g-8" value="&lt;font color=&quot;#ff0080&quot;&gt;node memached userapi pour user ref&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="N2LqG0-nj7z7RjuAbN2V-1">
-          <mxGeometry x="383" y="1044" width="237" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="0vmh4POg4geOitYVOq-g-10" value="&lt;font color=&quot;#ff8000&quot;&gt;node redis prod pour api commentaires&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="N2LqG0-nj7z7RjuAbN2V-1">
+        <mxCell id="0vmh4POg4geOitYVOq-g-14" value="" style="group" vertex="1" connectable="0" parent="N2LqG0-nj7z7RjuAbN2V-1">
           <mxGeometry x="383" y="1083" width="217" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="1" value="vpc network" parent="0"/>
@@ -243,26 +237,45 @@
         <mxCell id="N2LqG0-nj7z7RjuAbN2V-66" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F54749;gradientDirection=north;fillColor=#C7131F;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.api_gateway;labelBackgroundColor=none;" parent="N2LqG0-nj7z7RjuAbN2V-4" vertex="1">
           <mxGeometry x="107.5" y="101" width="40" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="N2LqG0-nj7z7RjuAbN2V-70" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#67AB9F;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.elasticache_for_memcached;labelBackgroundColor=none;" parent="N2LqG0-nj7z7RjuAbN2V-4" vertex="1">
-          <mxGeometry x="20" y="1040" width="33" height="29" as="geometry"/>
-        </mxCell>
-        <mxCell id="N2LqG0-nj7z7RjuAbN2V-71" value="node memcached wpf-prod pour socle drupal 8" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#009900;" parent="N2LqG0-nj7z7RjuAbN2V-4" vertex="1">
-          <mxGeometry x="64" y="1044.5" width="268" height="20" as="geometry"/>
-        </mxCell>
         <mxCell id="N2LqG0-nj7z7RjuAbN2V-74" value="&lt;font color=&quot;#cc0000&quot;&gt;sts&lt;/font&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C7131F;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sts;labelBackgroundColor=none;" parent="N2LqG0-nj7z7RjuAbN2V-4" vertex="1">
           <mxGeometry x="243" y="110" width="41" height="26" as="geometry"/>
         </mxCell>
         <mxCell id="N2LqG0-nj7z7RjuAbN2V-75" value="+" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;fontColor=#990000;fontStyle=1" parent="N2LqG0-nj7z7RjuAbN2V-4" vertex="1">
           <mxGeometry x="225" y="113" width="20" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="0vmh4POg4geOitYVOq-g-1" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#007FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.elasticache_for_redis;labelBackgroundColor=none;" vertex="1" parent="N2LqG0-nj7z7RjuAbN2V-4">
-          <mxGeometry x="20" y="1081.5" width="34" height="30" as="geometry"/>
+        <mxCell id="0vmh4POg4geOitYVOq-g-11" value="in memory store legend " parent="0"/>
+        <mxCell id="0vmh4POg4geOitYVOq-g-15" value="" style="group" vertex="1" connectable="0" parent="0vmh4POg4geOitYVOq-g-11">
+          <mxGeometry x="65" y="1082.5" width="230" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="0vmh4POg4geOitYVOq-g-7" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF0080;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.elasticache_for_memcached;labelBackgroundColor=none;" vertex="1" parent="N2LqG0-nj7z7RjuAbN2V-4">
+        <mxCell id="0vmh4POg4geOitYVOq-g-2" value="&lt;font color=&quot;#007fff&quot;&gt;node redis prod2 pour site abonnement&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0vmh4POg4geOitYVOq-g-15">
+          <mxGeometry width="230" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="0vmh4POg4geOitYVOq-g-7" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF0080;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.elasticache_for_memcached;labelBackgroundColor=none;" vertex="1" parent="0vmh4POg4geOitYVOq-g-11">
           <mxGeometry x="343" y="1041" width="34" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="0vmh4POg4geOitYVOq-g-9" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF8000;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.elasticache_for_redis;labelBackgroundColor=none;" vertex="1" parent="N2LqG0-nj7z7RjuAbN2V-4">
+        <mxCell id="0vmh4POg4geOitYVOq-g-9" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF8000;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.elasticache_for_redis;labelBackgroundColor=none;" vertex="1" parent="0vmh4POg4geOitYVOq-g-11">
           <mxGeometry x="341" y="1081" width="34" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="0vmh4POg4geOitYVOq-g-10" value="&lt;font color=&quot;#ff8000&quot;&gt;node redis prod pour api commentaires&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0vmh4POg4geOitYVOq-g-11">
+          <mxGeometry x="383" y="1083" width="217" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="0vmh4POg4geOitYVOq-g-13" value="" style="group" vertex="1" connectable="0" parent="0vmh4POg4geOitYVOq-g-11">
+          <mxGeometry x="383" y="1044" width="237" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="0vmh4POg4geOitYVOq-g-8" value="&lt;font color=&quot;#ff0080&quot;&gt;node memached userapi pour user ref&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0vmh4POg4geOitYVOq-g-13">
+          <mxGeometry width="237" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="0vmh4POg4geOitYVOq-g-12" value="" style="group" vertex="1" connectable="0" parent="0vmh4POg4geOitYVOq-g-11">
+          <mxGeometry x="20" y="1040" width="312" height="29" as="geometry"/>
+        </mxCell>
+        <mxCell id="N2LqG0-nj7z7RjuAbN2V-70" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#67AB9F;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.elasticache_for_memcached;labelBackgroundColor=none;" parent="0vmh4POg4geOitYVOq-g-12" vertex="1">
+          <mxGeometry width="33" height="29" as="geometry"/>
+        </mxCell>
+        <mxCell id="N2LqG0-nj7z7RjuAbN2V-71" value="node memcached wpf-prod pour socle drupal 8" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#009900;" parent="0vmh4POg4geOitYVOq-g-12" vertex="1">
+          <mxGeometry x="44" y="4.5" width="268" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="0vmh4POg4geOitYVOq-g-1" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#007FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.elasticache_for_redis;labelBackgroundColor=none;" vertex="1" parent="0vmh4POg4geOitYVOq-g-11">
+          <mxGeometry x="20" y="1081.5" width="34" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
