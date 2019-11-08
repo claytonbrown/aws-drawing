@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-08T09:12:28.099Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="PoX8yoqRvXESYRPEU62h" version="12.2.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-08T09:14:26.084Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="WNkxbZ7GC8E1P32ehvBH" version="12.2.2" type="github" pages="1">
   <diagram id="4uRVFsyQm0KmxqMWwmNr" name="Page-1">
     <mxGraphModel dx="768" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,10 +94,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N2LqG0-nj7z7RjuAbN2V-8" value="AZ 1c" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;align=left;" parent="N2LqG0-nj7z7RjuAbN2V-4" vertex="1">
-          <mxGeometry x="210" y="760" width="381" height="172" as="geometry"/>
+          <mxGeometry x="210" y="760" width="520" height="172" as="geometry"/>
         </mxCell>
         <mxCell id="N2LqG0-nj7z7RjuAbN2V-7" value="AZ 1b" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;align=left;" parent="N2LqG0-nj7z7RjuAbN2V-4" vertex="1">
-          <mxGeometry x="210" y="560" width="391" height="172" as="geometry"/>
+          <mxGeometry x="210" y="560" width="520" height="172" as="geometry"/>
         </mxCell>
         <mxCell id="N2LqG0-nj7z7RjuAbN2V-32" value="Public subnet 1a&lt;br&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#248814;fillColor=#E9F3E6;verticalAlign=top;align=left;spacingLeft=30;fontColor=#248814;dashed=0;" parent="N2LqG0-nj7z7RjuAbN2V-4" vertex="1">
           <mxGeometry x="230" y="390" width="129" height="110" as="geometry"/>
