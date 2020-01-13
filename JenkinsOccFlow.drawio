@@ -1,9 +1,24 @@
-<mxfile modified="2020-01-13T15:37:42.870Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="ZNm6AZ9mG-46S2NBH7ys" version="12.5.1" type="github">
+<mxfile modified="2020-01-13T15:54:41.543Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="_kWcyUDvvucRMR6Geyux" version="12.5.1" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1022" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
+        <mxCell id="kKz0rua2sB-xFrVkh7uT-1" value="Build &amp;amp; Test" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="100" y="380" width="140" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKz0rua2sB-xFrVkh7uT-2" value="QA &amp;amp; Deploy &amp;amp; E2E Tests" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="280" y="380" width="140" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKz0rua2sB-xFrVkh7uT-3" value="Deploy VAL" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="470" y="380" width="140" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKz0rua2sB-xFrVkh7uT-4" value="Deploy PROD" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="650" y="380" width="140" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKz0rua2sB-xFrVkh7uT-5" value="Build &amp;amp; Test" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="840" y="380" width="140" height="140" as="geometry"/>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
