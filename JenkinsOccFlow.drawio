@@ -1,4 +1,4 @@
-<mxfile modified="2020-01-13T16:16:11.489Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="4w2VEuTxfdoTz3Y5Q6nH" version="12.5.1" type="github">
+<mxfile modified="2020-01-13T16:17:37.850Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="blYyTc0bp0RfRcxdByTv" version="12.5.1" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1025" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="kKz0rua2sB-xFrVkh7uT-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.jfrog.com/confluence/download/attachments/57477233/RTF4X?version=1&amp;modificationDate=1488889895000&amp;api=v2;" vertex="1" parent="1">
           <mxGeometry x="140" y="228.84" width="63" height="70.29" as="geometry"/>
         </mxCell>
-        <mxCell id="kKz0rua2sB-xFrVkh7uT-7" value="2B82" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="kKz0rua2sB-xFrVkh7uT-7" value="&lt;font color=&quot;#00cc00&quot;&gt;2B82&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#12FF39;" vertex="1" parent="1">
           <mxGeometry x="150" y="299.13" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="kKz0rua2sB-xFrVkh7uT-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-128.png;" vertex="1" parent="1">
