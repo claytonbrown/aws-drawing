@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-20T10:46:55.061Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" etag="yxLQf3ha4_ZiLCY86XtL" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-20T12:10:19.391Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" etag="9sivSDV4ldJifq166m1W" version="12.5.5" type="github">
   <diagram id="SjLeIIDS42xYTo4wjzNZ" name="Page-1">
     <mxGraphModel dx="1287" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -40,6 +40,21 @@
         </mxCell>
         <mxCell id="gB_tlkMbJe6bkOpFI1ri-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gB_tlkMbJe6bkOpFI1ri-10" target="gB_tlkMbJe6bkOpFI1ri-12">
           <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="gB_tlkMbJe6bkOpFI1ri-20" value="Route 53 &lt;br&gt;hosted zone" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="99" y="204" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="gB_tlkMbJe6bkOpFI1ri-21" value="ALB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="209" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="gB_tlkMbJe6bkOpFI1ri-22" value="Lambda &lt;br&gt;as proxy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="204" width="60" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="gB_tlkMbJe6bkOpFI1ri-23" value="API gateway&lt;br&gt;with vpc endpoint&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="204" width="110" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="gB_tlkMbJe6bkOpFI1ri-24" value="S3 &lt;br&gt;bucket" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="632.5" y="199" width="50" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
