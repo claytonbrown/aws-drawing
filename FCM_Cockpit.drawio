@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-21T08:37:36.933Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" etag="SHCHSU8o63KhzwLWA1KJ" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-21T08:38:15.898Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" etag="fdhScrivASkzaFTW9Poz" version="12.5.5" type="github">
   <diagram id="SjLeIIDS42xYTo4wjzNZ" name="Page-1">
     <mxGraphModel dx="1389" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -57,7 +57,7 @@
           <mxGeometry x="632.5" y="199" width="50" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="gB_tlkMbJe6bkOpFI1ri-27" value="functional system diagram" style="" parent="0"/>
-        <mxCell id="lj5Vsi1nTVtL1hlr0WQ2-30" value="Fcm App&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="gB_tlkMbJe6bkOpFI1ri-27">
+        <mxCell id="lj5Vsi1nTVtL1hlr0WQ2-30" value="&lt;font color=&quot;#0000cc&quot;&gt;&amp;nbsp;Fcm Cockpit&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="gB_tlkMbJe6bkOpFI1ri-27">
           <mxGeometry x="240" y="117" width="530" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="lj5Vsi1nTVtL1hlr0WQ2-25" value="MSN View" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="gB_tlkMbJe6bkOpFI1ri-27">
