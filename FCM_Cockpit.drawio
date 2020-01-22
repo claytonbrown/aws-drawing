@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-22T10:09:35.198Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" etag="IH5zQsc1zOcXnnl6AEZw" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-22T10:09:51.491Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" etag="rZv1NKUVfEyZyCwpbBP0" version="12.5.5" type="github">
   <diagram id="SjLeIIDS42xYTo4wjzNZ" name="Page-1">
     <mxGraphModel dx="1287" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -167,7 +167,7 @@
         <mxCell id="Ka8gP7VvI0fFcUKiOHhF-5" value="https://cockpit.myad.airbus.com/fcm" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="Ka8gP7VvI0fFcUKiOHhF-3">
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry"/>
         </mxCell>
-        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-7" value="applicative view front" parent="0"/>
+        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-7" value="applicative view front" style="locked=1;" parent="0"/>
         <mxCell id="Ka8gP7VvI0fFcUKiOHhF-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Ka8gP7VvI0fFcUKiOHhF-7">
           <mxGeometry x="52.5" y="240" width="750" height="390" as="geometry"/>
         </mxCell>
