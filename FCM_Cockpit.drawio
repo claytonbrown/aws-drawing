@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-22T09:26:09.629Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" etag="mEutd5MbAuhe2XMqhcnK" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-22T09:38:31.782Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" etag="7KgbRM9we_S3tETAkEag" version="12.5.5" type="github">
   <diagram id="SjLeIIDS42xYTo4wjzNZ" name="Page-1">
     <mxGraphModel dx="1287" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
         <mxCell id="gB_tlkMbJe6bkOpFI1ri-24" value="S3 &lt;br&gt;bucket" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="632.5" y="199" width="50" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="gB_tlkMbJe6bkOpFI1ri-27" value="functional system diagram" style="" parent="0"/>
+        <mxCell id="gB_tlkMbJe6bkOpFI1ri-27" value="functional system diagram" style="" parent="0" visible="0"/>
         <mxCell id="lj5Vsi1nTVtL1hlr0WQ2-30" value="&lt;font color=&quot;#0000cc&quot;&gt;&amp;nbsp;Fcm Cockpit&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" parent="gB_tlkMbJe6bkOpFI1ri-27" vertex="1">
           <mxGeometry x="210" y="110" width="560" height="67" as="geometry"/>
         </mxCell>
@@ -156,6 +156,35 @@
         </mxCell>
         <mxCell id="lj5Vsi1nTVtL1hlr0WQ2-19" value="&lt;font color=&quot;#000000&quot;&gt;FCM React app&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FFFFFF;" parent="lj5Vsi1nTVtL1hlr0WQ2-22" vertex="1">
           <mxGeometry width="100" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-1" value="applicative view bkg" style="locked=1;" parent="0"/>
+        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-3" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="Ka8gP7VvI0fFcUKiOHhF-1">
+          <mxGeometry x="60" y="20" width="760" height="590" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-4" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="Ka8gP7VvI0fFcUKiOHhF-3">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-5" value="https://fcm.myad.airbus.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="Ka8gP7VvI0fFcUKiOHhF-3">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-7" value="applicative view front" parent="0"/>
+        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#CC6600;strokeColor=#FF8000;" edge="1" parent="Ka8gP7VvI0fFcUKiOHhF-7" source="Ka8gP7VvI0fFcUKiOHhF-8" target="Ka8gP7VvI0fFcUKiOHhF-11">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-8" value="main.tsx" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#CC6600;" vertex="1" parent="Ka8gP7VvI0fFcUKiOHhF-7">
+          <mxGeometry x="100" y="260" width="115" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-9" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="Ka8gP7VvI0fFcUKiOHhF-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="157" y="190" as="sourcePoint"/>
+            <mxPoint x="157" y="250" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-10" value="&lt;font color=&quot;#ffb570&quot;&gt;Any user actions inside the browser or url change&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Ka8gP7VvI0fFcUKiOHhF-7">
+          <mxGeometry x="90" y="160" width="280" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-11" value="Router" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#CC6600;" vertex="1" parent="Ka8gP7VvI0fFcUKiOHhF-7">
+          <mxGeometry x="255" y="260" width="115" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
