@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-22T09:59:37.766Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" etag="2ux6vByGZDs8SBgZetRM" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-22T10:09:35.198Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" etag="IH5zQsc1zOcXnnl6AEZw" version="12.5.5" type="github">
   <diagram id="SjLeIIDS42xYTo4wjzNZ" name="Page-1">
     <mxGraphModel dx="1287" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -169,7 +169,10 @@
         </mxCell>
         <mxCell id="Ka8gP7VvI0fFcUKiOHhF-7" value="applicative view front" parent="0"/>
         <mxCell id="Ka8gP7VvI0fFcUKiOHhF-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Ka8gP7VvI0fFcUKiOHhF-7">
-          <mxGeometry x="60" y="240" width="750" height="390" as="geometry"/>
+          <mxGeometry x="52.5" y="240" width="750" height="390" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-35" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#CC6600;" vertex="1" parent="Ka8gP7VvI0fFcUKiOHhF-7">
+          <mxGeometry x="105" y="340" width="645" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="Ka8gP7VvI0fFcUKiOHhF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#CC6600;strokeColor=#FF8000;" edge="1" parent="Ka8gP7VvI0fFcUKiOHhF-7" source="Ka8gP7VvI0fFcUKiOHhF-8" target="Ka8gP7VvI0fFcUKiOHhF-11">
           <mxGeometry relative="1" as="geometry"/>
@@ -219,20 +222,65 @@
         <mxCell id="Ka8gP7VvI0fFcUKiOHhF-26" value="Reporting Root Component" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#CC6600;" vertex="1" parent="Ka8gP7VvI0fFcUKiOHhF-7">
           <mxGeometry x="480" y="350" width="115" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#009900;" vertex="1" parent="Ka8gP7VvI0fFcUKiOHhF-7">
-          <mxGeometry x="130" y="420" width="640" height="200" as="geometry"/>
+        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Ka8gP7VvI0fFcUKiOHhF-7">
+          <mxGeometry x="105" y="440" width="655" height="182" as="geometry"/>
         </mxCell>
-        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-29" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#009900;" vertex="1" parent="Ka8gP7VvI0fFcUKiOHhF-7">
-          <mxGeometry x="167.5" y="430" width="540" height="70" as="geometry"/>
-        </mxCell>
-        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-30" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#009900;" vertex="1" parent="Ka8gP7VvI0fFcUKiOHhF-7">
-          <mxGeometry x="167.5" y="520" width="540" height="70" as="geometry"/>
+        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-30" value="&lt;span style=&quot;white-space: normal&quot;&gt;UI components (using horizon components)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#FF0000;" vertex="1" parent="Ka8gP7VvI0fFcUKiOHhF-7">
+          <mxGeometry x="180" y="540" width="540" height="61" as="geometry"/>
         </mxCell>
         <mxCell id="Ka8gP7VvI0fFcUKiOHhF-31" value="cockpit apps entry point componenents" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#009900;" vertex="1" parent="Ka8gP7VvI0fFcUKiOHhF-7">
           <mxGeometry x="52.5" y="700" width="115" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="Ka8gP7VvI0fFcUKiOHhF-32" value="sub cockpit app main entry points componenents" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#CC6600;" vertex="1" parent="Ka8gP7VvI0fFcUKiOHhF-7">
           <mxGeometry x="187.5" y="695" width="165" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-33" value="business features components layer (may be dedicated to a single cockpit app, or used by several cockpit apps)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=#7F00FF;" vertex="1" parent="Ka8gP7VvI0fFcUKiOHhF-7">
+          <mxGeometry x="367.5" y="697.5" width="340" height="37.5" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-29" value="controller / state management components" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#CC6600;" vertex="1" parent="Ka8gP7VvI0fFcUKiOHhF-7">
+          <mxGeometry x="180" y="460" width="540" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-36" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#FF8000;fontColor=#7F00FF;" edge="1" parent="Ka8gP7VvI0fFcUKiOHhF-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="264.5" y="436" as="sourcePoint"/>
+            <mxPoint x="264.5" y="396" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-37" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#FF8000;fontColor=#7F00FF;" edge="1" parent="Ka8gP7VvI0fFcUKiOHhF-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="409.5" y="436" as="sourcePoint"/>
+            <mxPoint x="409.5" y="396" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-38" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#FF8000;fontColor=#7F00FF;" edge="1" parent="Ka8gP7VvI0fFcUKiOHhF-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="433" as="sourcePoint"/>
+            <mxPoint x="680" y="393" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-39" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#FF8000;fontColor=#7F00FF;" edge="1" parent="Ka8gP7VvI0fFcUKiOHhF-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="537" y="435" as="sourcePoint"/>
+            <mxPoint x="537" y="395" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-40" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#6600CC;fontColor=#7F00FF;" edge="1" parent="Ka8gP7VvI0fFcUKiOHhF-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="547" y="537" as="sourcePoint"/>
+            <mxPoint x="547" y="513" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-41" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#6600CC;fontColor=#7F00FF;" edge="1" parent="Ka8gP7VvI0fFcUKiOHhF-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="468" y="537" as="sourcePoint"/>
+            <mxPoint x="468" y="513" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-42" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#6600CC;fontColor=#7F00FF;" edge="1" parent="Ka8gP7VvI0fFcUKiOHhF-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="374" y="537" as="sourcePoint"/>
+            <mxPoint x="374" y="513" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
