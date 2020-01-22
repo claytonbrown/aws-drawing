@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-22T11:01:16.630Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" etag="E4wl5PjvxEPFDUjAemBh" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-22T11:05:21.610Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" etag="0CVrb5VYNXFTiSc3M9WT" version="12.5.5" type="github">
   <diagram id="SjLeIIDS42xYTo4wjzNZ" name="Page-1">
     <mxGraphModel dx="1422" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -336,6 +336,27 @@
         </mxCell>
         <mxCell id="Ka8gP7VvI0fFcUKiOHhF-63" value="api calls" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#0000CC;" vertex="1" parent="Ka8gP7VvI0fFcUKiOHhF-43">
           <mxGeometry x="720" y="323.15" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-66" value="(1) : The MyAD platform API is covered in another ARD" style="text;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#0000CC;labelBorderColor=none;textDirection=ltr;labelPosition=left;verticalLabelPosition=middle;" vertex="1" parent="Ka8gP7VvI0fFcUKiOHhF-43">
+          <mxGeometry x="452" y="510" width="328" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-67" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=#6600CC;fontColor=#0000CC;" edge="1" parent="Ka8gP7VvI0fFcUKiOHhF-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="388" as="sourcePoint"/>
+            <mxPoint x="280" y="428" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-68" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=#6600CC;fontColor=#0000CC;" edge="1" parent="Ka8gP7VvI0fFcUKiOHhF-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="428.53" as="sourcePoint"/>
+            <mxPoint x="510" y="388.53" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-69" value="re-render on&lt;br&gt;&amp;nbsp;state changes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#0000CC;" vertex="1" parent="Ka8gP7VvI0fFcUKiOHhF-43">
+          <mxGeometry x="179" y="393.53" width="90" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-71" value="notify on &lt;br&gt;UI events" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#0000CC;" vertex="1" parent="Ka8gP7VvI0fFcUKiOHhF-43">
+          <mxGeometry x="530" y="393.53" width="70" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
