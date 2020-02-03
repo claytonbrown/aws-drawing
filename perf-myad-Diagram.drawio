@@ -1,1 +1,25 @@
-<mxfile host="www.draw.io" modified="2020-02-03T14:00:17.859Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" version="12.6.4" etag="GTG4bOqIiWiCExkZhzrk" type="github"><diagram id="SFatx6inJWGA613mugG9">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-02-03T14:08:38.117Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="pnYVPJLlVkIQu0kMfaf3" version="12.6.4" type="github">
+  <diagram id="SFatx6inJWGA613mugG9" name="Page-1">
+    <mxGraphModel dx="1402" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="yeLjzOHxYckcCx6usaHH-2" value="actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="180" width="40" height="75" as="geometry"/>
+        </mxCell>
+        <mxCell id="yeLjzOHxYckcCx6usaHH-8" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="50" width="360" height="310" as="geometry"/>
+        </mxCell>
+        <mxCell id="yeLjzOHxYckcCx6usaHH-9" value="occ app" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="yeLjzOHxYckcCx6usaHH-8">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="yeLjzOHxYckcCx6usaHH-10" value="https://cockpit.mydelivery.airbus.corp" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=12;fontColor=#666666;align=left;" vertex="1" parent="yeLjzOHxYckcCx6usaHH-8">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="yeLjzOHxYckcCx6usaHH-11" value="React app" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#007FFF;" vertex="1" parent="yeLjzOHxYckcCx6usaHH-8">
+          <mxGeometry x="83" y="156" width="207" height="114" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
