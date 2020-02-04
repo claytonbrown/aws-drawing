@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-04T13:20:23.663Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="cVl6oSpkgObBIqRo1JOs" version="12.6.5" type="github">
+<mxfile host="www.draw.io" modified="2020-02-04T13:41:02.089Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="RTEMznHyphDeCsm0TrUT" version="12.6.5" type="github">
   <diagram id="SFatx6inJWGA613mugG9" name="Page-1">
     <mxGraphModel dx="1386" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -93,8 +93,8 @@
         <mxCell id="66aSbUPal-WNDFXzIOLL-5" value="init app react&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="66aSbUPal-WNDFXzIOLL-1">
           <mxGeometry x="290" y="140" width="90" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="66aSbUPal-WNDFXzIOLL-6" value="API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="66aSbUPal-WNDFXzIOLL-1">
-          <mxGeometry x="400" y="140" width="360" height="40" as="geometry"/>
+        <mxCell id="66aSbUPal-WNDFXzIOLL-6" value="API calls utiles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="66aSbUPal-WNDFXzIOLL-1">
+          <mxGeometry x="460" y="140" width="360" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="66aSbUPal-WNDFXzIOLL-9" value="de 170ms &lt;br&gt;à 400ms" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="66aSbUPal-WNDFXzIOLL-1">
           <mxGeometry x="45" y="190" width="70" height="30" as="geometry"/>
@@ -106,7 +106,7 @@
           <mxGeometry x="310" y="190" width="50" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="66aSbUPal-WNDFXzIOLL-14" value="3s a 10s" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="66aSbUPal-WNDFXzIOLL-1">
-          <mxGeometry x="550" y="195" width="60" height="20" as="geometry"/>
+          <mxGeometry x="610" y="190" width="60" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="66aSbUPal-WNDFXzIOLL-15" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="66aSbUPal-WNDFXzIOLL-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -116,6 +116,12 @@
         </mxCell>
         <mxCell id="66aSbUPal-WNDFXzIOLL-16" value="de 1,5s à 6s&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="66aSbUPal-WNDFXzIOLL-1">
           <mxGeometry x="190" y="250" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="66aSbUPal-WNDFXzIOLL-17" value="preflight&amp;nbsp;&lt;br&gt;calls" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="66aSbUPal-WNDFXzIOLL-1">
+          <mxGeometry x="390" y="140" width="70" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="66aSbUPal-WNDFXzIOLL-18" value="90ms" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="66aSbUPal-WNDFXzIOLL-1">
+          <mxGeometry x="405" y="190" width="40" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
