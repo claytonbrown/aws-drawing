@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-04T09:55:12.929Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="Wh2KXq0o2zwtsCluiEUW" version="12.6.5" type="github">
+<mxfile host="www.draw.io" modified="2020-02-04T13:20:23.663Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="cVl6oSpkgObBIqRo1JOs" version="12.6.5" type="github">
   <diagram id="SFatx6inJWGA613mugG9" name="Page-1">
-    <mxGraphModel dx="1182" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1386" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" value="user flow" style="locked=1;" parent="0" visible="0"/>
@@ -58,30 +58,64 @@
         <mxCell id="yeLjzOHxYckcCx6usaHH-23" value="One page or action &lt;br&gt;could require &lt;br&gt;multiple API calls" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;fontColor=#FF8000;" parent="1" vertex="1">
           <mxGeometry x="440" y="340" width="160" height="70" as="geometry"/>
         </mxCell>
-        <mxCell id="Cu2Z_MZiyGJVQvHpQqnQ-1" value="loop problem" parent="0"/>
-        <mxCell id="Cu2Z_MZiyGJVQvHpQqnQ-2" value="" style="shape=mxgraph.bpmn.loop;html=1;outlineConnect=0;" vertex="1" parent="Cu2Z_MZiyGJVQvHpQqnQ-1">
+        <mxCell id="Cu2Z_MZiyGJVQvHpQqnQ-1" value="loop problem" style="locked=1;" parent="0" visible="0"/>
+        <mxCell id="Cu2Z_MZiyGJVQvHpQqnQ-2" value="" style="shape=mxgraph.bpmn.loop;html=1;outlineConnect=0;" parent="Cu2Z_MZiyGJVQvHpQqnQ-1" vertex="1">
           <mxGeometry x="250" y="130" width="40" height="34" as="geometry"/>
         </mxCell>
-        <mxCell id="Cu2Z_MZiyGJVQvHpQqnQ-4" value="elem1&lt;br&gt;&lt;br&gt;...&lt;br&gt;&lt;br&gt;....&lt;br&gt;&lt;br&gt;&lt;br&gt;elem N&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Cu2Z_MZiyGJVQvHpQqnQ-1">
+        <mxCell id="Cu2Z_MZiyGJVQvHpQqnQ-4" value="elem1&lt;br&gt;&lt;br&gt;...&lt;br&gt;&lt;br&gt;....&lt;br&gt;&lt;br&gt;&lt;br&gt;elem N&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Cu2Z_MZiyGJVQvHpQqnQ-1" vertex="1">
           <mxGeometry x="140" y="110" width="90" height="170" as="geometry"/>
         </mxCell>
-        <mxCell id="Cu2Z_MZiyGJVQvHpQqnQ-5" value="sub elem 1&lt;br&gt;...&lt;br&gt;&lt;br&gt;sub elem W&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Cu2Z_MZiyGJVQvHpQqnQ-1">
+        <mxCell id="Cu2Z_MZiyGJVQvHpQqnQ-5" value="sub elem 1&lt;br&gt;...&lt;br&gt;&lt;br&gt;sub elem W&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Cu2Z_MZiyGJVQvHpQqnQ-1" vertex="1">
           <mxGeometry x="290" y="164" width="70" height="76" as="geometry"/>
         </mxCell>
-        <mxCell id="Cu2Z_MZiyGJVQvHpQqnQ-6" value="" style="shape=mxgraph.bpmn.loop;html=1;outlineConnect=0;" vertex="1" parent="Cu2Z_MZiyGJVQvHpQqnQ-1">
+        <mxCell id="Cu2Z_MZiyGJVQvHpQqnQ-6" value="" style="shape=mxgraph.bpmn.loop;html=1;outlineConnect=0;" parent="Cu2Z_MZiyGJVQvHpQqnQ-1" vertex="1">
           <mxGeometry x="380" y="185" width="40" height="34" as="geometry"/>
         </mxCell>
-        <mxCell id="Cu2Z_MZiyGJVQvHpQqnQ-7" value="sub sub ..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Cu2Z_MZiyGJVQvHpQqnQ-1">
+        <mxCell id="Cu2Z_MZiyGJVQvHpQqnQ-7" value="sub sub ..." style="rounded=0;whiteSpace=wrap;html=1;" parent="Cu2Z_MZiyGJVQvHpQqnQ-1" vertex="1">
           <mxGeometry x="430" y="204" width="70" height="76" as="geometry"/>
         </mxCell>
-        <mxCell id="Cu2Z_MZiyGJVQvHpQqnQ-8" value="loop" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Cu2Z_MZiyGJVQvHpQqnQ-1">
+        <mxCell id="Cu2Z_MZiyGJVQvHpQqnQ-8" value="loop" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="Cu2Z_MZiyGJVQvHpQqnQ-1" vertex="1">
           <mxGeometry x="250" y="110" width="40" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="Cu2Z_MZiyGJVQvHpQqnQ-9" value="loop" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Cu2Z_MZiyGJVQvHpQqnQ-1">
+        <mxCell id="Cu2Z_MZiyGJVQvHpQqnQ-9" value="loop" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="Cu2Z_MZiyGJVQvHpQqnQ-1" vertex="1">
           <mxGeometry x="380" y="164" width="40" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="Cu2Z_MZiyGJVQvHpQqnQ-10" value="Limiter le nombre d&#39;éléments&lt;br&gt;&amp;nbsp;de plus haut niveau sera souvent &lt;br&gt;un facteur d&#39;amélioration des performances" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Cu2Z_MZiyGJVQvHpQqnQ-1">
+        <mxCell id="Cu2Z_MZiyGJVQvHpQqnQ-10" value="Limiter le nombre d&#39;éléments&lt;br&gt;&amp;nbsp;de plus haut niveau sera souvent &lt;br&gt;un facteur d&#39;amélioration des performances" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="Cu2Z_MZiyGJVQvHpQqnQ-1" vertex="1">
           <mxGeometry x="70" y="300" width="250" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="66aSbUPal-WNDFXzIOLL-1" value="timeline" parent="0"/>
+        <mxCell id="66aSbUPal-WNDFXzIOLL-3" value="page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="66aSbUPal-WNDFXzIOLL-1">
+          <mxGeometry x="40" y="140" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="66aSbUPal-WNDFXzIOLL-4" value="css js img fonts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="66aSbUPal-WNDFXzIOLL-1">
+          <mxGeometry x="141" y="140" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="66aSbUPal-WNDFXzIOLL-5" value="init app react&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="66aSbUPal-WNDFXzIOLL-1">
+          <mxGeometry x="290" y="140" width="90" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="66aSbUPal-WNDFXzIOLL-6" value="API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="66aSbUPal-WNDFXzIOLL-1">
+          <mxGeometry x="400" y="140" width="360" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="66aSbUPal-WNDFXzIOLL-9" value="de 170ms &lt;br&gt;à 400ms" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="66aSbUPal-WNDFXzIOLL-1">
+          <mxGeometry x="45" y="190" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="66aSbUPal-WNDFXzIOLL-10" value="de 800ms&lt;br&gt;&amp;nbsp;à&amp;nbsp;5s" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="66aSbUPal-WNDFXzIOLL-1">
+          <mxGeometry x="166" y="190" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="66aSbUPal-WNDFXzIOLL-11" value="450ms" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="66aSbUPal-WNDFXzIOLL-1">
+          <mxGeometry x="310" y="190" width="50" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="66aSbUPal-WNDFXzIOLL-14" value="3s a 10s" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="66aSbUPal-WNDFXzIOLL-1">
+          <mxGeometry x="550" y="195" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="66aSbUPal-WNDFXzIOLL-15" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="66aSbUPal-WNDFXzIOLL-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="240" as="sourcePoint"/>
+            <mxPoint x="400" y="240" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="66aSbUPal-WNDFXzIOLL-16" value="de 1,5s à 6s&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="66aSbUPal-WNDFXzIOLL-1">
+          <mxGeometry x="190" y="250" width="80" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
