@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-20T11:03:01.313Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="3bUdO5tWX2LLTte8OeUU" version="12.7.2" type="github">
+<mxfile host="www.draw.io" modified="2020-02-20T11:03:20.571Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="GevYDKxZrRu884EDHA6z" version="12.7.2" type="github">
   <diagram id="_RyaLZpXq0vOFnJkEBAm" name="Page-1">
     <mxGraphModel dx="736" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
           <mxGeometry x="435" y="135.25" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YM3e-G6NLhHqBjOPdq-J-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/2-color-line/67/si-duo-stack-128.png;fontSize=47;fontColor=#000099;" vertex="1" parent="YM3e-G6NLhHqBjOPdq-J-16">
-          <mxGeometry x="435" y="72" width="54" height="54" as="geometry" />
+          <mxGeometry x="437" y="72" width="54" height="54" as="geometry" />
         </mxCell>
         <mxCell id="YM3e-G6NLhHqBjOPdq-J-21" value="&lt;font style=&quot;font-size: 17px ; line-height: 60%&quot; color=&quot;#ff8000&quot;&gt;more &lt;font style=&quot;font-size: 17px&quot;&gt;logic in the layer than in the lambda&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=47;fontColor=#000099;" vertex="1" parent="YM3e-G6NLhHqBjOPdq-J-16">
           <mxGeometry x="495" y="60" width="330" height="60" as="geometry" />
