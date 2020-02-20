@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-20T10:47:09.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="xfO2CIwRr4YXkQgcURo2" version="12.7.2" type="github">
+<mxfile host="www.draw.io" modified="2020-02-20T10:49:10.930Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="M9vUapFcXKDlhTrHiAS-" version="12.7.2" type="github">
   <diagram id="_RyaLZpXq0vOFnJkEBAm" name="Page-1">
     <mxGraphModel dx="736" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -27,6 +27,12 @@
         </mxCell>
         <mxCell id="YM3e-G6NLhHqBjOPdq-J-11" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mysql_db_instance;fillColor=#2E73B8;gradientColor=none;fontSize=47;fontColor=#000099;" vertex="1" parent="1">
           <mxGeometry x="490" y="151" width="50" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="YM3e-G6NLhHqBjOPdq-J-15" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;fontSize=47;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="280" y="230" width="142.86" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YM3e-G6NLhHqBjOPdq-J-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/eightyshades/512/20_Forbid-128.png;fontSize=47;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="303.93" y="230" width="95" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
