@@ -1,1 +1,34 @@
-<mxfile host="www.draw.io" modified="2020-02-20T10:38:18.843Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" version="12.7.2" etag="GmIOz5Kz71gL_r9xV9Xi" type="github"><diagram id="_RyaLZpXq0vOFnJkEBAm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-02-20T10:47:09.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="xfO2CIwRr4YXkQgcURo2" version="12.7.2" type="github">
+  <diagram id="_RyaLZpXq0vOFnJkEBAm" name="Page-1">
+    <mxGraphModel dx="736" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YM3e-G6NLhHqBjOPdq-J-2" value="" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="40" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YM3e-G6NLhHqBjOPdq-J-3" value="developer setup" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000099;fontSize=47;" vertex="1" parent="1">
+          <mxGeometry x="220" y="50" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YM3e-G6NLhHqBjOPdq-J-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/smallicons-logotypes/32/chrome-128.png;fontSize=47;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="260" y="150.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YM3e-G6NLhHqBjOPdq-J-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png;fontSize=47;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="340" y="150.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YM3e-G6NLhHqBjOPdq-J-6" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.laptop;fontSize=47;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="160" y="149" width="80" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="YM3e-G6NLhHqBjOPdq-J-7" value="&lt;span style=&quot;font-size: 12px&quot;&gt;Airbus Laptop&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=47;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="155" y="170" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YM3e-G6NLhHqBjOPdq-J-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/graphql-128.png;fontSize=47;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="420" y="149" width="51" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="YM3e-G6NLhHqBjOPdq-J-11" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mysql_db_instance;fillColor=#2E73B8;gradientColor=none;fontSize=47;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="490" y="151" width="50" height="51" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
