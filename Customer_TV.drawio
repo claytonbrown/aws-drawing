@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-21T14:16:13.440Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="YYlDTCWVOuRJMj-OZKPv" version="12.7.3" type="github">
+<mxfile host="www.draw.io" modified="2020-02-21T14:17:53.402Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="w2SsQwu6DgpJrP19EKoI" version="12.7.3" type="github">
   <diagram id="SjLeIIDS42xYTo4wjzNZ" name="Page-1">
     <mxGraphModel dx="1050" dy="464" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -140,7 +140,7 @@
             <mxPoint x="761" y="123" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1" value="infra view" style="locked=1;" parent="0" />
+        <mxCell id="1" value="infra view" style="locked=1;" parent="0" visible="0" />
         <mxCell id="Ka8gP7VvI0fFcUKiOHhF-109" value="VPC" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#248814;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" parent="1" vertex="1">
           <mxGeometry x="325" y="146.73" width="475" height="223.27" as="geometry" />
         </mxCell>
@@ -245,7 +245,7 @@
         <mxCell id="T0iJW6xwWuFh2RoNAZjV-1" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.tv;" vertex="1" parent="1">
           <mxGeometry x="101.39" y="181.13" width="96" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="gB_tlkMbJe6bkOpFI1ri-27" value="functional system diagram" style="locked=1;" parent="0" visible="0" />
+        <mxCell id="gB_tlkMbJe6bkOpFI1ri-27" value="functional system diagram" style="locked=1;" parent="0" />
         <mxCell id="lj5Vsi1nTVtL1hlr0WQ2-26" value="API platform (1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#FF0000;" parent="gB_tlkMbJe6bkOpFI1ri-27" vertex="1">
           <mxGeometry x="10" y="236" width="820" height="60" as="geometry" />
         </mxCell>
