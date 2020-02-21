@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-21T14:31:04.099Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="b3uC0WJdaBAaGqrhizSq" version="12.7.3" type="github">
+<mxfile host="www.draw.io" modified="2020-02-21T14:32:20.781Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="QKHtHcRlQA5NGQauuiNK" version="12.7.3" type="github">
   <diagram id="SjLeIIDS42xYTo4wjzNZ" name="Page-1">
     <mxGraphModel dx="1050" dy="464" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -350,13 +350,13 @@
             <mxPoint x="425.5" y="373" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-17" value="FCM Dashboard&lt;br&gt;&amp;nbsp;Root Component" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#CC6600;" parent="Ka8gP7VvI0fFcUKiOHhF-7" vertex="1">
+        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-17" value="Customer Agenda" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#CC6600;" parent="Ka8gP7VvI0fFcUKiOHhF-7" vertex="1">
           <mxGeometry x="127" y="408" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-18" value="MSN Detail Root Component" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#CC6600;" parent="Ka8gP7VvI0fFcUKiOHhF-7" vertex="1">
+        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-18" value="Customer safety page" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#CC6600;" parent="Ka8gP7VvI0fFcUKiOHhF-7" vertex="1">
           <mxGeometry x="278" y="412" width="85" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-19" value="CLB TLB Dashboard root component" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#CC6600;" parent="Ka8gP7VvI0fFcUKiOHhF-7" vertex="1">
+        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-19" value="Cockpit dashboard" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#CC6600;" parent="Ka8gP7VvI0fFcUKiOHhF-7" vertex="1">
           <mxGeometry x="645" y="414" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ka8gP7VvI0fFcUKiOHhF-24" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="Ka8gP7VvI0fFcUKiOHhF-7" edge="1">
@@ -368,7 +368,7 @@
         <mxCell id="Ka8gP7VvI0fFcUKiOHhF-25" value="&lt;font color=&quot;#ffb570&quot;&gt;an FCM Initialize the TV App&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="Ka8gP7VvI0fFcUKiOHhF-7" vertex="1">
           <mxGeometry x="108" y="201" width="162" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-26" value="Reporting &lt;br&gt;Root Component" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#CC6600;" parent="Ka8gP7VvI0fFcUKiOHhF-7" vertex="1">
+        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-26" value="Customer team infos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#CC6600;" parent="Ka8gP7VvI0fFcUKiOHhF-7" vertex="1">
           <mxGeometry x="488" y="415" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ka8gP7VvI0fFcUKiOHhF-31" value="TV apps entry point components" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#009900;" parent="Ka8gP7VvI0fFcUKiOHhF-7" vertex="1">
