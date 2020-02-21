@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-21T14:14:22.145Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="oLHnZW8TxMaLfUx-BTPo" version="12.7.3" type="github">
+<mxfile host="www.draw.io" modified="2020-02-21T14:14:35.270Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="SSmD1goT_vfcp7nPw3bD" version="12.7.3" type="github">
   <diagram id="SjLeIIDS42xYTo4wjzNZ" name="Page-1">
     <mxGraphModel dx="1050" dy="464" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -259,7 +259,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lj5Vsi1nTVtL1hlr0WQ2-35" value="&lt;font color=&quot;#000000&quot;&gt;(1) : detailled in MyAD Platform API ARD&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FFFFFF;" parent="gB_tlkMbJe6bkOpFI1ri-27" vertex="1">
-          <mxGeometry x="20" y="430" width="230" height="20" as="geometry" />
+          <mxGeometry x="20" y="415" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Ka8gP7VvI0fFcUKiOHhF-72" value="" style="endArrow=classic;startArrow=classic;html=1;fontColor=#FFFFFF;strokeColor=#FF0000;" parent="gB_tlkMbJe6bkOpFI1ri-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
