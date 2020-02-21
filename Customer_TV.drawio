@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-21T14:24:36.453Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="6zYkdIceDQKc0JFzxnSa" version="12.7.3" type="github">
+<mxfile host="www.draw.io" modified="2020-02-21T14:29:17.665Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="FRL5wr9L3PEdc4x2obSH" version="12.7.3" type="github">
   <diagram id="SjLeIIDS42xYTo4wjzNZ" name="Page-1">
     <mxGraphModel dx="1050" dy="464" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -315,9 +315,12 @@
             <mxPoint x="737" y="189" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-1" value="components view bkg" style="locked=1;" parent="0" visible="0" />
-        <mxCell id="T0iJW6xwWuFh2RoNAZjV-4" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.tv;fontColor=#999900;" vertex="1" parent="Ka8gP7VvI0fFcUKiOHhF-1">
-          <mxGeometry x="22" y="104" width="807" height="723" as="geometry" />
+        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-1" value="components view bkg" style="" parent="0" />
+        <mxCell id="T0iJW6xwWuFh2RoNAZjV-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#999900;strokeWidth=9;" vertex="1" parent="Ka8gP7VvI0fFcUKiOHhF-1">
+          <mxGeometry x="23" y="178" width="797" height="551" as="geometry" />
+        </mxCell>
+        <mxCell id="T0iJW6xwWuFh2RoNAZjV-9" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;fontColor=#999900;fillColor=#000000;" vertex="1" parent="Ka8gP7VvI0fFcUKiOHhF-1">
+          <mxGeometry x="317" y="740" width="216" height="11" as="geometry" />
         </mxCell>
         <mxCell id="Ka8gP7VvI0fFcUKiOHhF-7" value="components view front" style="" parent="0" />
         <mxCell id="Ka8gP7VvI0fFcUKiOHhF-35" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#CC6600;" parent="Ka8gP7VvI0fFcUKiOHhF-7" vertex="1">
@@ -369,13 +372,13 @@
           <mxGeometry x="488" y="415" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ka8gP7VvI0fFcUKiOHhF-31" value="TV apps entry point components" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#009900;" parent="Ka8gP7VvI0fFcUKiOHhF-7" vertex="1">
-          <mxGeometry x="52.5" y="770" width="115" height="30" as="geometry" />
+          <mxGeometry x="52" y="853" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ka8gP7VvI0fFcUKiOHhF-32" value="TV app main entry points components" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#CC6600;" parent="Ka8gP7VvI0fFcUKiOHhF-7" vertex="1">
-          <mxGeometry x="187.5" y="765" width="165" height="40" as="geometry" />
+          <mxGeometry x="191" y="847" width="165" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ka8gP7VvI0fFcUKiOHhF-33" value="business features components layer (may be dedicated to a single tv component, or used by several tv components)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=#7F00FF;" parent="Ka8gP7VvI0fFcUKiOHhF-7" vertex="1">
-          <mxGeometry x="367.5" y="766.25" width="340" height="37.5" as="geometry" />
+          <mxGeometry x="376" y="853" width="340" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="Ka8gP7VvI0fFcUKiOHhF-36" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#FF8000;fontColor=#7F00FF;" parent="Ka8gP7VvI0fFcUKiOHhF-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
