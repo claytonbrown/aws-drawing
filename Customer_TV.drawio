@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-21T14:32:44.181Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="odjsuz2SVnhwSeWTX3K3" version="12.7.3" type="github">
+<mxfile host="www.draw.io" modified="2020-02-21T14:33:02.621Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="2CW_V0jiWgG7EmS-rNme" version="12.7.3" type="github">
   <diagram id="SjLeIIDS42xYTo4wjzNZ" name="Page-1">
     <mxGraphModel dx="1050" dy="464" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -322,7 +322,7 @@
         <mxCell id="T0iJW6xwWuFh2RoNAZjV-9" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;fontColor=#999900;fillColor=#000000;" vertex="1" parent="Ka8gP7VvI0fFcUKiOHhF-1">
           <mxGeometry x="317" y="740" width="216" height="11" as="geometry" />
         </mxCell>
-        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-7" value="components view front" style="" parent="0" />
+        <mxCell id="Ka8gP7VvI0fFcUKiOHhF-7" value="components view front" style="locked=1;" parent="0" />
         <mxCell id="Ka8gP7VvI0fFcUKiOHhF-35" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#CC6600;" parent="Ka8gP7VvI0fFcUKiOHhF-7" vertex="1">
           <mxGeometry x="80" y="390" width="710" height="90" as="geometry" />
         </mxCell>
