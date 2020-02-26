@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-26T15:42:39.827Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="ZAU6TIp2q6VqBF4d-FrE" version="12.7.7" type="github">
+<mxfile host="www.draw.io" modified="2020-02-26T15:43:13.651Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="Sc2gGSiRMZbctXhQ3OmT" version="12.7.7" type="github">
   <diagram id="_RyaLZpXq0vOFnJkEBAm" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -58,8 +58,8 @@
         <mxCell id="YM3e-G6NLhHqBjOPdq-J-40" value="&lt;br&gt;application&lt;br&gt;load&amp;nbsp;&lt;br&gt;balancer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;fontColor=#000099;" parent="YM3e-G6NLhHqBjOPdq-J-16" vertex="1">
           <mxGeometry x="84.75" y="180" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LfxkDP3pSOA4PRft5UZe-2" value="API Gateway with vpc endpoint" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="YM3e-G6NLhHqBjOPdq-J-16">
-          <mxGeometry x="270" y="110" width="180" height="20" as="geometry" />
+        <mxCell id="LfxkDP3pSOA4PRft5UZe-2" value="API Gateway with vpc endpoint" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#CC0000;fontSize=14;" vertex="1" parent="YM3e-G6NLhHqBjOPdq-J-16">
+          <mxGeometry x="262" y="110" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1" value="dev setup" style="locked=1;" parent="0" visible="0" />
         <mxCell id="YM3e-G6NLhHqBjOPdq-J-2" value="" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;fontColor=none;" parent="1" vertex="1">
