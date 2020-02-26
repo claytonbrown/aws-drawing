@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-26T16:12:36.253Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="S8A8Fsfe1HfMP0BnIAGk" version="12.7.7" type="github">
+<mxfile host="www.draw.io" modified="2020-02-26T16:12:41.241Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="bKGKOlvmcj_YYQjXD4SY" version="12.7.7" type="github">
   <diagram id="_RyaLZpXq0vOFnJkEBAm" name="Page-1">
     <mxGraphModel dx="1376" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -96,7 +96,7 @@
         <mxCell id="YM3e-G6NLhHqBjOPdq-J-11" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mysql_db_instance;fillColor=#2E73B8;gradientColor=none;fontSize=47;fontColor=#000099;" parent="1" vertex="1">
           <mxGeometry x="490" y="151" width="50" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="LfxkDP3pSOA4PRft5UZe-8" value="stack" parent="0" />
+        <mxCell id="LfxkDP3pSOA4PRft5UZe-8" value="stack" style="locked=1;" parent="0" />
         <mxCell id="LfxkDP3pSOA4PRft5UZe-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/104647991/original/713f5097b5d34cd41d807bf8b16b08950a2df875/do-web-development-using-python-django.png;" vertex="1" parent="LfxkDP3pSOA4PRft5UZe-8">
           <mxGeometry x="302" y="100" width="122.78" height="102" as="geometry" />
         </mxCell>
