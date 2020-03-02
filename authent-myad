@@ -1,10 +1,10 @@
-<mxfile host="www.draw.io" modified="2020-03-02T12:49:09.854Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="Vw63lfqu4q4SfM_WLUYi" version="12.7.9" type="github">
+<mxfile host="www.draw.io" modified="2020-03-02T12:49:32.356Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="dXbJaH559s3pkbv49kTF" version="12.7.9" type="github">
   <diagram id="AlmtYnrToBSdVxfS9OWh" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="alXckRCzDhWJyZ9avFvU-1" value="MyAD Cockpit&lt;br&gt;&amp;nbsp;REACT APP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#000099;" vertex="1" parent="1">
+        <mxCell id="alXckRCzDhWJyZ9avFvU-1" value="MyAD TV&lt;br&gt;&amp;nbsp;REACT APP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#000099;" vertex="1" parent="1">
           <mxGeometry x="140" y="170" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="alXckRCzDhWJyZ9avFvU-2" value="MyAD Platform API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#FF8000;" vertex="1" parent="1">
