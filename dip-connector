@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-03-18T16:36:52.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="OOrchA70hMigAmloFGRh" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-18T16:43:43.419Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="W9xZc8E2cnJBTYGfJ95P" version="12.8.8" type="github">
   <diagram id="Q-khpXlUxtZSlJw9HrwN" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pt4xxFi4no3BSSrlM-SR-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="189.5" width="120" height="330.5" as="geometry" />
+        </mxCell>
         <mxCell id="pt4xxFi4no3BSSrlM-SR-2" value="API Gateway" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F54749;gradientDirection=north;fillColor=#C7131F;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.api_gateway;" vertex="1" parent="1">
           <mxGeometry x="515" y="310" width="65" height="65" as="geometry" />
         </mxCell>
@@ -49,11 +52,20 @@
         <mxCell id="pt4xxFi4no3BSSrlM-SR-14" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="182" y="189.5" width="620" height="332.5" as="geometry" />
         </mxCell>
-        <mxCell id="pt4xxFi4no3BSSrlM-SR-15" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="10" y="189.5" width="150" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="pt4xxFi4no3BSSrlM-SR-16" value="AIRBUS LAN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="189.5" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pt4xxFi4no3BSSrlM-SR-18" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#808080;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" vertex="1" parent="1">
+          <mxGeometry x="40" y="315" width="41" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pt4xxFi4no3BSSrlM-SR-19" value="DIP Data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="41" y="380" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pt4xxFi4no3BSSrlM-SR-21" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="342" as="sourcePoint" />
+            <mxPoint x="270" y="342" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
