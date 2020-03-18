@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-18T13:44:12.958Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="RIBkibwf6MXCuqxf53v_" version="12.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-18T13:45:01.161Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="a8l-AVPNpORpU22-89e-" version="12.8.5" type="github">
   <diagram id="6JVy9j8931lmVEFpkEkv" name="Page-1">
     <mxGraphModel dx="929" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="_nXKhYCj0PH-RXozwr1Q-7" value="Core browser &lt;br&gt;engine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="260" width="160" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="_nXKhYCj0PH-RXozwr1Q-10" value="Cognito" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F54749;gradientDirection=north;fillColor=#C7131F;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cognito;" vertex="1" parent="1">
+        <mxCell id="_nXKhYCj0PH-RXozwr1Q-10" value="&lt;font color=&quot;#990000&quot;&gt;Cognito&lt;/font&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F54749;gradientDirection=north;fillColor=#C7131F;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cognito;" vertex="1" parent="1">
           <mxGeometry x="501" y="252" width="139" height="139" as="geometry" />
         </mxCell>
         <mxCell id="_nXKhYCj0PH-RXozwr1Q-17" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -106,7 +106,7 @@
         <mxCell id="_nXKhYCj0PH-RXozwr1Q-44" value="POST with SAML assertion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF00FF;" vertex="1" parent="1">
           <mxGeometry x="280" y="323" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_nXKhYCj0PH-RXozwr1Q-45" value="Cockpit app bucket" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.bucket_with_objects;" vertex="1" parent="1">
+        <mxCell id="_nXKhYCj0PH-RXozwr1Q-45" value="&lt;font color=&quot;#006600&quot;&gt;Cockpit app bucket&lt;/font&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.bucket_with_objects;" vertex="1" parent="1">
           <mxGeometry x="500" y="423" width="140" height="145.59" as="geometry" />
         </mxCell>
         <mxCell id="_nXKhYCj0PH-RXozwr1Q-46" value="" style="endArrow=ERmany;html=1;exitX=1;exitY=0.429;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;fontColor=#009900;strokeColor=#009900;" edge="1" parent="1">
