@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-18T09:42:11.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="DxVEGsVoJABJXfthUwUa" version="13.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-18T09:44:07.812Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="yE_8f1TfmW50q1eEy-ft" version="13.1.1" type="github">
   <diagram id="ZieNJUuBfNxr683kOoOD" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
         <mxCell id="HoR6jKGoqs6wjyYa6Poe-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#3333FF;" vertex="1" parent="HoR6jKGoqs6wjyYa6Poe-30">
           <mxGeometry x="50" y="160" width="130" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="HoR6jKGoqs6wjyYa6Poe-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#3333FF;" vertex="1" parent="HoR6jKGoqs6wjyYa6Poe-30">
+        <mxCell id="HoR6jKGoqs6wjyYa6Poe-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#3333FF;strokeColor=#FF8000;strokeWidth=2;" vertex="1" parent="HoR6jKGoqs6wjyYa6Poe-30">
           <mxGeometry x="50" y="436" width="130" height="116" as="geometry" />
         </mxCell>
         <mxCell id="HoR6jKGoqs6wjyYa6Poe-33" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#3333FF;" vertex="1" parent="HoR6jKGoqs6wjyYa6Poe-30">
@@ -75,16 +75,16 @@
           <mxGeometry x="81" y="320" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="HoR6jKGoqs6wjyYa6Poe-35" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;AIRCRAFT DELIVERY CENTER&lt;/span&gt;&lt;/font&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/picons-social/57/github-128.png;fontColor=#3333FF;" vertex="1" parent="HoR6jKGoqs6wjyYa6Poe-30">
-          <mxGeometry x="140" y="20" width="66" height="66" as="geometry" />
+          <mxGeometry x="80.5" y="22" width="66" height="66" as="geometry" />
         </mxCell>
         <mxCell id="HoR6jKGoqs6wjyYa6Poe-36" value="" style="endArrow=none;dashed=1;html=1;fontColor=#3333FF;" edge="1" parent="HoR6jKGoqs6wjyYa6Poe-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="701.5" y="730" as="sourcePoint" />
+            <mxPoint x="700" y="850" as="sourcePoint" />
             <mxPoint x="701.5" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HoR6jKGoqs6wjyYa6Poe-37" value="&lt;font style=&quot;font-size: 11px&quot; color=&quot;#000000&quot;&gt;IOT&lt;br&gt;&lt;/font&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/picons-social/57/github-128.png;fontColor=#3333FF;" vertex="1" parent="HoR6jKGoqs6wjyYa6Poe-30">
-          <mxGeometry x="671" y="24" width="62" height="62" as="geometry" />
+          <mxGeometry x="671" y="22" width="62" height="62" as="geometry" />
         </mxCell>
         <mxCell id="HoR6jKGoqs6wjyYa6Poe-38" value="api platform repository" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/github-128.png" vertex="1" parent="HoR6jKGoqs6wjyYa6Poe-30">
           <mxGeometry x="87" y="174.5" width="61" height="61" as="geometry" />
@@ -107,8 +107,8 @@
         <mxCell id="HoR6jKGoqs6wjyYa6Poe-44" value="clb&lt;br&gt;connector repository" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/github-128.png" vertex="1" parent="HoR6jKGoqs6wjyYa6Poe-30">
           <mxGeometry x="83.5" y="600" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="HoR6jKGoqs6wjyYa6Poe-47" value="&lt;font style=&quot;font-size: 16px&quot; color=&quot;#000000&quot;&gt;1 repo&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#3333FF;" vertex="1" parent="HoR6jKGoqs6wjyYa6Poe-30">
-          <mxGeometry x="206" y="208" width="60" height="20" as="geometry" />
+        <mxCell id="HoR6jKGoqs6wjyYa6Poe-49" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;To delete&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#3333FF;" vertex="1" parent="HoR6jKGoqs6wjyYa6Poe-30">
+          <mxGeometry x="737" y="540" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
