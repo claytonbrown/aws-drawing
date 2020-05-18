@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-18T09:44:07.812Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="yE_8f1TfmW50q1eEy-ft" version="13.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-18T09:46:38.438Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="pOXD7LPs54Xbd4i1wDJg" version="13.1.1" type="github">
   <diagram id="ZieNJUuBfNxr683kOoOD" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -59,6 +59,9 @@
           <mxGeometry x="425" y="209.5" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HoR6jKGoqs6wjyYa6Poe-30" value="Targetted" parent="0" />
+        <mxCell id="HoR6jKGoqs6wjyYa6Poe-50" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#3333FF;strokeColor=#FF8000;strokeWidth=2;" vertex="1" parent="HoR6jKGoqs6wjyYa6Poe-30">
+          <mxGeometry x="220" y="436" width="130" height="116" as="geometry" />
+        </mxCell>
         <mxCell id="HoR6jKGoqs6wjyYa6Poe-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#3333FF;" vertex="1" parent="HoR6jKGoqs6wjyYa6Poe-30">
           <mxGeometry x="50" y="300" width="130" height="116" as="geometry" />
         </mxCell>
@@ -69,7 +72,7 @@
           <mxGeometry x="50" y="436" width="130" height="116" as="geometry" />
         </mxCell>
         <mxCell id="HoR6jKGoqs6wjyYa6Poe-33" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#3333FF;" vertex="1" parent="HoR6jKGoqs6wjyYa6Poe-30">
-          <mxGeometry x="50" y="570" width="270" height="270" as="geometry" />
+          <mxGeometry x="50" y="584" width="270" height="270" as="geometry" />
         </mxCell>
         <mxCell id="HoR6jKGoqs6wjyYa6Poe-34" value="Front repository" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/github-128.png" vertex="1" parent="HoR6jKGoqs6wjyYa6Poe-30">
           <mxGeometry x="81" y="320" width="68" height="68" as="geometry" />
@@ -90,10 +93,10 @@
           <mxGeometry x="87" y="174.5" width="61" height="61" as="geometry" />
         </mxCell>
         <mxCell id="HoR6jKGoqs6wjyYa6Poe-39" value="cvault &lt;br&gt;connector repository" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/github-128.png" vertex="1" parent="HoR6jKGoqs6wjyYa6Poe-30">
-          <mxGeometry x="210" y="600" width="68" height="68" as="geometry" />
+          <mxGeometry x="210" y="597" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="HoR6jKGoqs6wjyYa6Poe-40" value="monitoring sas&lt;br&gt;repository" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/github-128.png" vertex="1" parent="HoR6jKGoqs6wjyYa6Poe-30">
-          <mxGeometry x="270" y="450" width="63" height="63" as="geometry" />
+        <mxCell id="HoR6jKGoqs6wjyYa6Poe-40" value="monitoring Infra&amp;nbsp;&lt;br&gt;repository" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/github-128.png" vertex="1" parent="HoR6jKGoqs6wjyYa6Poe-30">
+          <mxGeometry x="253.5" y="450" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="HoR6jKGoqs6wjyYa6Poe-41" value="monitoring&amp;nbsp;&lt;br&gt;repository" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/github-128.png" vertex="1" parent="HoR6jKGoqs6wjyYa6Poe-30">
           <mxGeometry x="83.5" y="450" width="63" height="63" as="geometry" />
@@ -102,13 +105,19 @@
           <mxGeometry x="743" y="436" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="HoR6jKGoqs6wjyYa6Poe-43" value="SAS&amp;nbsp;&lt;br&gt;connector repository" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/github-128.png" vertex="1" parent="HoR6jKGoqs6wjyYa6Poe-30">
-          <mxGeometry x="83.5" y="730" width="68" height="68" as="geometry" />
+          <mxGeometry x="83.5" y="718" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="HoR6jKGoqs6wjyYa6Poe-44" value="clb&lt;br&gt;connector repository" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/github-128.png" vertex="1" parent="HoR6jKGoqs6wjyYa6Poe-30">
-          <mxGeometry x="83.5" y="600" width="68" height="68" as="geometry" />
+          <mxGeometry x="83.5" y="596" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="HoR6jKGoqs6wjyYa6Poe-49" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;To delete&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#3333FF;" vertex="1" parent="HoR6jKGoqs6wjyYa6Poe-30">
           <mxGeometry x="737" y="540" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HoR6jKGoqs6wjyYa6Poe-51" value="Code rework + pipeline reworked" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;" vertex="1" parent="HoR6jKGoqs6wjyYa6Poe-30">
+          <mxGeometry x="81" y="835" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HoR6jKGoqs6wjyYa6Poe-52" value="Code rework + pipeline reworked" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;" vertex="1" parent="HoR6jKGoqs6wjyYa6Poe-30">
+          <mxGeometry x="110" y="550" width="200" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
