@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-18T09:46:38.438Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="pOXD7LPs54Xbd4i1wDJg" version="13.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-18T09:48:38.423Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="Y72yM5ZOfUyvVjU4CMlI" version="13.1.1" type="github">
   <diagram id="ZieNJUuBfNxr683kOoOD" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -118,6 +118,12 @@
         </mxCell>
         <mxCell id="HoR6jKGoqs6wjyYa6Poe-52" value="Code rework + pipeline reworked" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;" vertex="1" parent="HoR6jKGoqs6wjyYa6Poe-30">
           <mxGeometry x="110" y="550" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HoR6jKGoqs6wjyYa6Poe-53" value="maybe more than one repo / decision postponed to what we will learn from monitoring" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#3333FF;strokeWidth=2;strokeColor=#FF8000;" vertex="1" parent="HoR6jKGoqs6wjyYa6Poe-30">
+          <mxGeometry x="370" y="584" width="270" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="HoR6jKGoqs6wjyYa6Poe-54" value="connector infra&amp;nbsp;&lt;br&gt;repository" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/github-128.png" vertex="1" parent="HoR6jKGoqs6wjyYa6Poe-30">
+          <mxGeometry x="410" y="597" width="68" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
