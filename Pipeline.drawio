@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-19T14:23:47.692Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="ITeYuAGUYYVZAEoheEKS" version="13.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-19T14:27:24.599Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="DpYljJuOuW2nqwAIMLZX" version="13.1.2" type="github">
   <diagram id="UteESkg8PsY_XmZYqFVY" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,34 +8,36 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wmOgwJelC3KoBMGndn4P-1" value="Init props" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="250" width="130" height="80" as="geometry" />
+          <mxGeometry x="80" y="80" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wmOgwJelC3KoBMGndn4P-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wmOgwJelC3KoBMGndn4P-2" target="wmOgwJelC3KoBMGndn4P-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wmOgwJelC3KoBMGndn4P-2" value="SCM Interaction" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="250" width="150" height="80" as="geometry" />
+          <mxGeometry x="230" y="80" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wmOgwJelC3KoBMGndn4P-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wmOgwJelC3KoBMGndn4P-3" target="wmOgwJelC3KoBMGndn4P-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wmOgwJelC3KoBMGndn4P-3" value="Unit test &amp;amp; build" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="250" width="150" height="80" as="geometry" />
+        <mxCell id="wmOgwJelC3KoBMGndn4P-3" value="Unit tests &amp;amp; build" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wmOgwJelC3KoBMGndn4P-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wmOgwJelC3KoBMGndn4P-4" target="wmOgwJelC3KoBMGndn4P-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wmOgwJelC3KoBMGndn4P-4" value="deploy on &lt;br&gt;targetted env" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="250" width="150" height="80" as="geometry" />
+          <mxGeometry x="570" y="80" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wmOgwJelC3KoBMGndn4P-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wmOgwJelC3KoBMGndn4P-5" target="wmOgwJelC3KoBMGndn4P-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="wmOgwJelC3KoBMGndn4P-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wmOgwJelC3KoBMGndn4P-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="120" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wmOgwJelC3KoBMGndn4P-5" value="Integration tests" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="250" width="150" height="80" as="geometry" />
+          <mxGeometry x="740" y="80" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wmOgwJelC3KoBMGndn4P-6" value="post &lt;br&gt;build actions" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="250" width="150" height="80" as="geometry" />
+          <mxGeometry x="920" y="80" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
