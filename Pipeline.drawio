@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-19T14:54:38.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="E7PVxCHKqyGV13HcqdWo" version="13.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-19T14:56:34.008Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="Yp86LZrdqe_kjT8Vin5C" version="13.1.2" type="github">
   <diagram id="UteESkg8PsY_XmZYqFVY" name="Page-1">
     <mxGraphModel dx="1422" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -136,6 +136,9 @@
         </mxCell>
         <mxCell id="wmOgwJelC3KoBMGndn4P-47" value="db updates (optional)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=none;" vertex="1" parent="wmOgwJelC3KoBMGndn4P-24">
           <mxGeometry x="965" y="200" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wmOgwJelC3KoBMGndn4P-48" value="delete-env" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontColor=none;" vertex="1" parent="wmOgwJelC3KoBMGndn4P-24">
+          <mxGeometry x="100" y="380" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
