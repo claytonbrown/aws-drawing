@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-19T07:11:51.621Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="BP8TBUhKdGk4v0P2g8DQ" version="13.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-19T07:13:09.100Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="94dZC5lv0HpI2Dv5IiC2" version="13.1.2" type="github">
   <diagram id="ZieNJUuBfNxr683kOoOD" name="Page-1">
     <mxGraphModel dx="1422" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -194,6 +194,9 @@
             <mxPoint x="359" y="557" as="sourcePoint" />
             <mxPoint x="540.056" y="687.548" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TlIp9s7jWuSo9urC1bLV-30" value="All release commits are &lt;br style=&quot;font-size: 23px;&quot;&gt;meant to be at least deployed to VAL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=23;fontColor=#000000;" vertex="1" parent="TlIp9s7jWuSo9urC1bLV-3">
+          <mxGeometry x="640" y="346" width="390" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TlIp9s7jWuSo9urC1bLV-24" value="flow2" parent="0" visible="0" />
         <mxCell id="TlIp9s7jWuSo9urC1bLV-25" value="1.1.2" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#CC6600;" vertex="1" parent="TlIp9s7jWuSo9urC1bLV-24">
