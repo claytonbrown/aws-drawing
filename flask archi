@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T10:01:11.924Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" version="13.10.2" etag="-JoqDfWF5ZiXJac3bfDf" type="github"><diagram id="VQY7FoRi4iz5lqrje1GW">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-26T10:15:06.876Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="Iov5IfJ0l2v7T53aPqZh" version="13.10.2" type="github">
+  <diagram id="VQY7FoRi4iz5lqrje1GW" name="Page-1">
+    <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1HbfQm34cu7M_WGMAdYs-18" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="610" y="170" width="380" height="459.00000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="1HbfQm34cu7M_WGMAdYs-14" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1HbfQm34cu7M_WGMAdYs-18">
+          <mxGeometry width="380" height="430.00000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="1HbfQm34cu7M_WGMAdYs-17" value="apigw-wsgi adapter + lambda handler" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1HbfQm34cu7M_WGMAdYs-18">
+          <mxGeometry x="40" y="410" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1HbfQm34cu7M_WGMAdYs-9" value="" style="group" vertex="1" connectable="0" parent="1HbfQm34cu7M_WGMAdYs-18">
+          <mxGeometry x="35" y="70" width="350" height="389.00000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="1HbfQm34cu7M_WGMAdYs-10" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1HbfQm34cu7M_WGMAdYs-9">
+          <mxGeometry width="310" height="320.00000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="1HbfQm34cu7M_WGMAdYs-11" value="wsgi middleware&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1HbfQm34cu7M_WGMAdYs-9">
+          <mxGeometry x="20.217391304347828" y="289.5238095238095" width="148.2608695652174" height="30.476190476190474" as="geometry" />
+        </mxCell>
+        <mxCell id="1HbfQm34cu7M_WGMAdYs-12" value="Flask App" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1HbfQm34cu7M_WGMAdYs-9">
+          <mxGeometry x="95" y="144" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1HbfQm34cu7M_WGMAdYs-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="675" as="sourcePoint" />
+            <mxPoint x="530" y="125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1HbfQm34cu7M_WGMAdYs-3" value="Local" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="620" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1HbfQm34cu7M_WGMAdYs-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="140" y="240" width="310" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="1HbfQm34cu7M_WGMAdYs-1" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1HbfQm34cu7M_WGMAdYs-6">
+          <mxGeometry width="310" height="320.00000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="1HbfQm34cu7M_WGMAdYs-5" value="dev wsgi server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1HbfQm34cu7M_WGMAdYs-6">
+          <mxGeometry x="20.217391304347828" y="289.5238095238095" width="148.2608695652174" height="30.476190476190474" as="geometry" />
+        </mxCell>
+        <mxCell id="1HbfQm34cu7M_WGMAdYs-8" value="Flask App" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1HbfQm34cu7M_WGMAdYs-6">
+          <mxGeometry x="95" y="144" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1HbfQm34cu7M_WGMAdYs-19" value="Cloud" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="620" width="110" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
