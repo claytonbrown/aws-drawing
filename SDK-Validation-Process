@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-03-15T09:09:54.106Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" version="14.4.6" etag="P2ONGso-mAiJ_-yaDAlo" type="github"><diagram id="H3CItKZaI77QYKkEU4go">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-15T09:11:51.959Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="PtG6-HdFoAp5ZoLcfHuN" version="14.4.6" type="github">
+  <diagram id="H3CItKZaI77QYKkEU4go" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WyCbRUeksY0uBKYtyrmR-1" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; new SDK&amp;nbsp; &amp;nbsp;validation VM" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;shape=mxgraph.azure.virtual_machine;fillColor=#00205b;" vertex="1" parent="1">
+          <mxGeometry x="280" y="237.5" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WyCbRUeksY0uBKYtyrmR-2" value="" style="html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#3B8DF1;shape=mxgraph.gcp2.repository_2" vertex="1" parent="1">
+          <mxGeometry x="40" y="222.5" width="94" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WyCbRUeksY0uBKYtyrmR-3" value="SDK Validation app codebase" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="360" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
