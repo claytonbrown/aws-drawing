@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-03-10T15:30:17.504Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="E2ngX0-ybU90BlCFJbFX" version="14.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T09:31:40.215Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="dkhauJFx5a_X1D7jQZxZ" version="14.4.6" type="github">
   <diagram id="vl_AGbrKZmYdF3dpeHAi" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="50oWKqxVrQMStPMYJhHW-2" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="50oWKqxVrQMStPMYJhHW-2" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="110" y="207.5" width="670" height="410" as="geometry" />
         </mxCell>
         <mxCell id="OdWC_pLGIVVMLjIX-C78-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="50oWKqxVrQMStPMYJhHW-2" vertex="1">
@@ -37,7 +37,7 @@
         <mxCell id="OdWC_pLGIVVMLjIX-C78-15" value="" style="group" parent="OdWC_pLGIVVMLjIX-C78-6" vertex="1" connectable="0">
           <mxGeometry x="26.07000000000005" y="44" width="140" height="220.00000000000003" as="geometry" />
         </mxCell>
-        <mxCell id="50oWKqxVrQMStPMYJhHW-4" value="" style="group" vertex="1" connectable="0" parent="OdWC_pLGIVVMLjIX-C78-15">
+        <mxCell id="50oWKqxVrQMStPMYJhHW-4" value="" style="group" parent="OdWC_pLGIVVMLjIX-C78-15" vertex="1" connectable="0">
           <mxGeometry width="140" height="220.00000000000003" as="geometry" />
         </mxCell>
         <mxCell id="OdWC_pLGIVVMLjIX-C78-13" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;fontColor=#CC0000;strokeColor=#009900;" parent="50oWKqxVrQMStPMYJhHW-4" vertex="1">
@@ -58,7 +58,7 @@
             <mxPoint x="136" y="54.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="50oWKqxVrQMStPMYJhHW-3" value="" style="group" vertex="1" connectable="0" parent="OdWC_pLGIVVMLjIX-C78-12">
+        <mxCell id="50oWKqxVrQMStPMYJhHW-3" value="" style="group" parent="OdWC_pLGIVVMLjIX-C78-12" vertex="1" connectable="0">
           <mxGeometry width="580" height="110" as="geometry" />
         </mxCell>
         <mxCell id="OdWC_pLGIVVMLjIX-C78-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000099;dashed=1;fillColor=none;strokeColor=#FF0000;strokeWidth=2;" parent="50oWKqxVrQMStPMYJhHW-3" vertex="1">
@@ -84,6 +84,9 @@
         </mxCell>
         <mxCell id="OdWC_pLGIVVMLjIX-C78-26" value="&lt;div style=&quot;font-size: 14px ; line-height: 19px&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;reachable only from the internal network using&lt;/font&gt;&lt;font face=&quot;consolas, courier new, monospace&quot;&gt; validationapp_nodejs_1:3000&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#009900;" parent="1" vertex="1">
           <mxGeometry x="409" y="461" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="huYGTndKfq1WulRqGuiI-1" value="VOP Network containers are resolvable from an internal network" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="650" width="240" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
