@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T10:25:06.422Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="J4c9fqvylYZTLxDLpw_p" version="14.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T10:25:41.171Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="HbdIKFc0LDp_d8qd4AQz" version="14.4.6" type="github">
   <diagram id="vl_AGbrKZmYdF3dpeHAi" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -85,13 +85,19 @@
         <mxCell id="OdWC_pLGIVVMLjIX-C78-26" value="&lt;div style=&quot;font-size: 14px ; line-height: 19px&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;reachable only from the internal network using&lt;/font&gt;&lt;font face=&quot;consolas, courier new, monospace&quot;&gt; validationapp_nodejs_1:3000&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#009900;" parent="1" vertex="1">
           <mxGeometry x="401" y="468" width="360" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="huYGTndKfq1WulRqGuiI-1" value="VOP Network containers service endpoints fqdn are resolvable from the internal network" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="640" width="240" height="70" as="geometry" />
+        <mxCell id="huYGTndKfq1WulRqGuiI-1" value="VOP Network containers service endpoints fqdn are resolvable from the internal network (in the VM)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="161" y="640" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="huYGTndKfq1WulRqGuiI-2" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#FF0000;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="307" y="469" as="sourcePoint" />
             <mxPoint x="386.6190476190477" y="408.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="huYGTndKfq1WulRqGuiI-3" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#FF0000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="674.5" as="sourcePoint" />
+            <mxPoint x="150" y="674.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
