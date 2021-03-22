@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T14:02:28.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="gzcdiNmmif_9TY2LVExJ" version="14.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-22T15:19:32.683Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="CdyiaTwx7ZIdhtmIkp0e" version="14.4.8" type="github">
   <diagram id="vl_AGbrKZmYdF3dpeHAi" name="Page-1">
-    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="50oWKqxVrQMStPMYJhHW-2" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="118" y="207.5" width="670" height="410" as="geometry" />
+          <mxGeometry x="340" y="207.5" width="670" height="410" as="geometry" />
         </mxCell>
         <mxCell id="OdWC_pLGIVVMLjIX-C78-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="50oWKqxVrQMStPMYJhHW-2" vertex="1">
           <mxGeometry width="670" height="410" as="geometry" />
@@ -14,10 +14,10 @@
           <mxGeometry x="30" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OdWC_pLGIVVMLjIX-C78-1" value="End users devices" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Devices_Groups.svg;" parent="1" vertex="1">
-          <mxGeometry x="80" y="40" width="80" height="80" as="geometry" />
+          <mxGeometry x="290" y="40" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OdWC_pLGIVVMLjIX-C78-6" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="150" y="267.5" width="390" height="291" as="geometry" />
+          <mxGeometry x="360" y="267.5" width="390" height="291" as="geometry" />
         </mxCell>
         <mxCell id="OdWC_pLGIVVMLjIX-C78-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="OdWC_pLGIVVMLjIX-C78-6" vertex="1">
           <mxGeometry y="1.2074688796680497" width="190" height="289.79253112033194" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="5.833333333333332" y="195.33333333333334" width="128.33333333333331" height="24.444444444444446" as="geometry" />
         </mxCell>
         <mxCell id="OdWC_pLGIVVMLjIX-C78-12" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="170" y="297.5" width="600" height="110" as="geometry" />
+          <mxGeometry x="380" y="297.5" width="600" height="110" as="geometry" />
         </mxCell>
         <mxCell id="OdWC_pLGIVVMLjIX-C78-19" value="&lt;div style=&quot;font-size: 14px ; line-height: 19px&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;reachable inside the vop network using&lt;/font&gt;&lt;br&gt;&lt;font face=&quot;consolas, courier new, monospace&quot;&gt;validationapp.service.osp.connectivity.aero&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#009900;" parent="OdWC_pLGIVVMLjIX-C78-12" vertex="1">
           <mxGeometry x="234" y="40" width="340" height="20" as="geometry" />
@@ -69,36 +69,66 @@
         </mxCell>
         <mxCell id="OdWC_pLGIVVMLjIX-C78-16" value="" style="endArrow=classic;html=1;fontColor=#009900;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="244" y="167.5" as="sourcePoint" />
-            <mxPoint x="244" y="307.5" as="targetPoint" />
+            <mxPoint x="454" y="167.5" as="sourcePoint" />
+            <mxPoint x="454" y="307.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OdWC_pLGIVVMLjIX-C78-18" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;The SDK ensure that the app can be reached using either :&lt;br&gt;&lt;br&gt;https://validationapp.airspacelink.net&lt;br&gt;or&lt;/font&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;br&gt;https://otherapp.airspacelink.net/osp/service/validationapp&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;br&gt;Note: the portal app can provide additional&amp;nbsp;access to an application&lt;br&gt;example : https://portalapp.airspacelink.net/app/validationapp&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#009900;" parent="1" vertex="1">
-          <mxGeometry x="200" y="20" width="470" height="85" as="geometry" />
+          <mxGeometry x="410" y="20" width="470" height="85" as="geometry" />
         </mxCell>
         <mxCell id="OdWC_pLGIVVMLjIX-C78-24" value="" style="endArrow=classic;html=1;fontColor=#009900;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="405" y="474" as="sourcePoint" />
-            <mxPoint x="311" y="473.0999999999999" as="targetPoint" />
+            <mxPoint x="615" y="474" as="sourcePoint" />
+            <mxPoint x="521" y="473.0999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OdWC_pLGIVVMLjIX-C78-26" value="&lt;div style=&quot;font-size: 14px ; line-height: 19px&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;reachable only from the internal network using&lt;/font&gt;&lt;font face=&quot;consolas, courier new, monospace&quot;&gt; validationapp_nodejs_1:3000&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#009900;" parent="1" vertex="1">
-          <mxGeometry x="401" y="468" width="360" height="20" as="geometry" />
+          <mxGeometry x="611" y="468" width="360" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="huYGTndKfq1WulRqGuiI-1" value="VOP Network containers service endpoints FQDN are resolvable from the internal network (in the VM)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="163" y="644" width="240" height="70" as="geometry" />
+        <mxCell id="huYGTndKfq1WulRqGuiI-1" value="VOP Network containers service endpoints FQDN are resolvable from the internal network (in the VM)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="373" y="644" width="240" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="huYGTndKfq1WulRqGuiI-2" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#FF0000;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="huYGTndKfq1WulRqGuiI-2" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#FF0000;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="307" y="469" as="sourcePoint" />
-            <mxPoint x="386.6190476190477" y="408.5" as="targetPoint" />
+            <mxPoint x="519" y="469" as="sourcePoint" />
+            <mxPoint x="598.6190476190477" y="408.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="huYGTndKfq1WulRqGuiI-3" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#FF0000;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="huYGTndKfq1WulRqGuiI-3" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#FF0000;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="70" y="674.5" as="sourcePoint" />
-            <mxPoint x="150" y="674.5" as="targetPoint" />
+            <mxPoint x="280" y="674.5" as="sourcePoint" />
+            <mxPoint x="360" y="674.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9-BOeJJuR_DjumBrfCD_-1" value="media1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#004C99;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="155" y="313.5" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9-BOeJJuR_DjumBrfCD_-2" value="backchannel" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#CC6600;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="155" y="436" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9-BOeJJuR_DjumBrfCD_-3" value="" style="endArrow=classic;html=1;fontColor=#004C99;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="349" as="sourcePoint" />
+            <mxPoint x="410" y="349" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9-BOeJJuR_DjumBrfCD_-4" value="" style="endArrow=classic;html=1;fontColor=#004C99;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="350" as="sourcePoint" />
+            <mxPoint x="420" y="461.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9-BOeJJuR_DjumBrfCD_-6" value="" style="endArrow=classic;html=1;fontColor=#004C99;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="242" y="471" as="sourcePoint" />
+            <mxPoint x="412" y="471" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9-BOeJJuR_DjumBrfCD_-7" value="content volume mounted on both containers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#004C99;" vertex="1" parent="1">
+          <mxGeometry x="30" y="342.5" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9-BOeJJuR_DjumBrfCD_-8" value="applogs volume mounted on nodejs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="30" y="468" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
