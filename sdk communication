@@ -1,14 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T14:24:19.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="QMF9mXcuxtq3D5tZIvZI" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-29T14:29:42.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="gkzRaMWYxNCkUbAnm_-E" version="14.4.9" type="github">
   <diagram id="vl_AGbrKZmYdF3dpeHAi" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="50oWKqxVrQMStPMYJhHW-2" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="110" y="200" width="960" height="430" as="geometry" />
+        <mxCell id="OdWC_pLGIVVMLjIX-C78-6" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="130" y="262.56" width="910" height="381.44" as="geometry" />
         </mxCell>
-        <mxCell id="OdWC_pLGIVVMLjIX-C78-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="50oWKqxVrQMStPMYJhHW-2" vertex="1">
-          <mxGeometry width="960" height="430" as="geometry" />
+        <mxCell id="OdWC_pLGIVVMLjIX-C78-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="OdWC_pLGIVVMLjIX-C78-6" vertex="1">
+          <mxGeometry x="-50" y="-48.56" width="960" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="50oWKqxVrQMStPMYJhHW-2" value="" style="group" parent="OdWC_pLGIVVMLjIX-C78-6" vertex="1" connectable="0">
+          <mxGeometry x="-78" y="-48.56" width="970" height="430" as="geometry" />
         </mxCell>
         <mxCell id="OdWC_pLGIVVMLjIX-C78-3" value="Pax VM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="50oWKqxVrQMStPMYJhHW-2" vertex="1">
           <mxGeometry x="42.985074626865675" width="114.62686567164181" height="20.975609756097562" as="geometry" />
@@ -16,26 +19,11 @@
         <mxCell id="OdWC_pLGIVVMLjIX-C78-19" value="&lt;div style=&quot;font-size: 14px ; line-height: 19px&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;reachable inside the vop network using&lt;/font&gt;&lt;br&gt;&lt;font face=&quot;consolas, courier new, monospace&quot;&gt;customapp1.service.osp.connectivity.aero&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#009900;" parent="50oWKqxVrQMStPMYJhHW-2" vertex="1">
           <mxGeometry x="294" y="144" width="340" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OdWC_pLGIVVMLjIX-C78-23" value="" style="endArrow=classic;html=1;fontColor=#009900;" parent="50oWKqxVrQMStPMYJhHW-2" edge="1">
-          <mxGeometry x="170" y="304" width="50" height="50" as="geometry">
-            <mxPoint x="296" y="159" as="sourcePoint" />
-            <mxPoint x="196" y="158.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="50oWKqxVrQMStPMYJhHW-3" value="" style="group" parent="50oWKqxVrQMStPMYJhHW-2" vertex="1" connectable="0">
           <mxGeometry x="60" y="104" width="580" height="110" as="geometry" />
         </mxCell>
         <mxCell id="OdWC_pLGIVVMLjIX-C78-11" value="VOP network" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#CC0000;fontStyle=1" parent="50oWKqxVrQMStPMYJhHW-3" vertex="1">
           <mxGeometry x="431.28205128205127" width="118.97435897435898" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="OdWC_pLGIVVMLjIX-C78-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000099;dashed=1;fillColor=none;strokeColor=#FF0000;strokeWidth=2;" parent="50oWKqxVrQMStPMYJhHW-2" vertex="1">
-          <mxGeometry x="54" y="99" width="580" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="OdWC_pLGIVVMLjIX-C78-1" value="End users devices" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Devices_Groups.svg;" parent="1" vertex="1">
-          <mxGeometry x="290" y="40" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OdWC_pLGIVVMLjIX-C78-6" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="150" y="258.5" width="390" height="331.5" as="geometry" />
         </mxCell>
         <mxCell id="OdWC_pLGIVVMLjIX-C78-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="OdWC_pLGIVVMLjIX-C78-6" vertex="1">
           <mxGeometry y="1.37551867219917" width="190" height="330.1244813278008" as="geometry" />
@@ -64,14 +52,39 @@
         <mxCell id="OdWC_pLGIVVMLjIX-C78-14" value="Internal network" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1;fontColor=#009900;" parent="50oWKqxVrQMStPMYJhHW-4" vertex="1">
           <mxGeometry x="5.833333333333332" y="222.5189003436426" width="128.33333333333331" height="27.846506300114548" as="geometry" />
         </mxCell>
-        <mxCell id="OdWC_pLGIVVMLjIX-C78-16" value="" style="endArrow=classic;html=1;fontColor=#009900;" parent="1" edge="1">
+        <mxCell id="OdWC_pLGIVVMLjIX-C78-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000099;dashed=1;fillColor=none;strokeColor=#FF0000;strokeWidth=2;" parent="OdWC_pLGIVVMLjIX-C78-6" vertex="1">
+          <mxGeometry x="10" y="38.44" width="580" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="OdWC_pLGIVVMLjIX-C78-23" value="" style="endArrow=classic;html=1;fontColor=#009900;" parent="OdWC_pLGIVVMLjIX-C78-6" edge="1">
+          <mxGeometry x="124" y="238.44" width="50" height="50" as="geometry">
+            <mxPoint x="240" y="93.44" as="sourcePoint" />
+            <mxPoint x="150" y="92.94" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OdWC_pLGIVVMLjIX-C78-1" value="End users devices" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Devices_Groups.svg;" parent="1" vertex="1">
+          <mxGeometry x="310" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OdWC_pLGIVVMLjIX-C78-16" value="" style="endArrow=classic;html=1;fontColor=#009900;entryX=0.528;entryY=0.045;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="OdWC_pLGIVVMLjIX-C78-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="454" y="167.5" as="sourcePoint" />
+            <mxPoint x="350" y="160" as="sourcePoint" />
             <mxPoint x="454" y="307.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="220" />
+              <mxPoint x="230" y="220" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="OdWC_pLGIVVMLjIX-C78-18" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px&quot;&gt;The &lt;b&gt;SDK &lt;/b&gt;ensure that the app can be reached using either :&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;https://customapp1.airspacelink.net&lt;br style=&quot;font-size: 14px&quot;&gt;or&lt;/font&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;https://otherapp.airspacelink.net/osp/service/customapp1&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#009900;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="400" y="35" width="500" height="85" as="geometry" />
+          <mxGeometry x="440" y="35" width="500" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="huYGTndKfq1WulRqGuiI-1" value="VOP Network containers service endpoints FQDN are resolvable from the internal network (in the VM)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" parent="1" vertex="1">
+          <mxGeometry x="373" y="644" width="267" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="huYGTndKfq1WulRqGuiI-3" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#FF0000;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="674.5" as="sourcePoint" />
+            <mxPoint x="360" y="674.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="OdWC_pLGIVVMLjIX-C78-24" value="" style="endArrow=classic;html=1;fontColor=#009900;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -82,19 +95,10 @@
         <mxCell id="OdWC_pLGIVVMLjIX-C78-26" value="&lt;div style=&quot;font-size: 14px ; line-height: 19px&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;reachable only from the internal network using&lt;/font&gt;&lt;font face=&quot;consolas, courier new, monospace&quot;&gt; my_aliases_nodejs_1:3000&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#009900;" parent="1" vertex="1">
           <mxGeometry x="401" y="459" width="360" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="huYGTndKfq1WulRqGuiI-1" value="VOP Network containers service endpoints FQDN are resolvable from the internal network (in the VM)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" parent="1" vertex="1">
-          <mxGeometry x="373" y="644" width="267" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="huYGTndKfq1WulRqGuiI-2" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#FF0000;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="309" y="460" as="sourcePoint" />
-            <mxPoint x="388.6190476190477" y="399.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="huYGTndKfq1WulRqGuiI-3" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#FF0000;strokeWidth=2;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="674.5" as="sourcePoint" />
-            <mxPoint x="360" y="674.5" as="targetPoint" />
+            <mxPoint x="380" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
