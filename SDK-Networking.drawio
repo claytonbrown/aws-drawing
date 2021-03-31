@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-22T15:45:38.444Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="20_s22QGzLfdOBjna-Ov" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-31T07:43:01.337Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="_-uFjtVr10TRMIfqUSSZ" version="14.5.3" type="github">
   <diagram id="vl_AGbrKZmYdF3dpeHAi" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,7 +82,7 @@
             <mxPoint x="521" y="473.0999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OdWC_pLGIVVMLjIX-C78-26" value="&lt;div style=&quot;font-size: 14px ; line-height: 19px&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;reachable only from the internal network using&lt;/font&gt;&lt;font face=&quot;consolas, courier new, monospace&quot;&gt; validationapp_nodejs_1:3000&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#009900;" parent="1" vertex="1">
+        <mxCell id="OdWC_pLGIVVMLjIX-C78-26" value="&lt;p style=&quot;font-size: 14px ; line-height: 19px&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;reachable only from the internal network using&lt;/font&gt;&lt;font face=&quot;consolas, courier new, monospace&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;font face=&quot;Verdana&quot; color=&quot;#000000&quot;&gt;nodejs-backend&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; color: rgb(0 , 0 , 0)&quot;&gt;:3000&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#009900;" parent="1" vertex="1">
           <mxGeometry x="611" y="468" width="360" height="20" as="geometry" />
         </mxCell>
         <mxCell id="huYGTndKfq1WulRqGuiI-1" value="VOP Network containers service endpoints FQDN are resolvable from the internal network (in the VM)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" parent="1" vertex="1">
@@ -100,43 +100,43 @@
             <mxPoint x="360" y="674.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9-BOeJJuR_DjumBrfCD_-1" value="media1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#004C99;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="9-BOeJJuR_DjumBrfCD_-1" value="media1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#004C99;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="155" y="313.5" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9-BOeJJuR_DjumBrfCD_-2" value="backchannel" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#CC6600;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="9-BOeJJuR_DjumBrfCD_-2" value="backchannel" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#CC6600;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="155" y="436" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9-BOeJJuR_DjumBrfCD_-3" value="" style="endArrow=classic;html=1;fontColor=#004C99;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+        <mxCell id="9-BOeJJuR_DjumBrfCD_-3" value="" style="endArrow=classic;html=1;fontColor=#004C99;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="349" as="sourcePoint" />
             <mxPoint x="410" y="349" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9-BOeJJuR_DjumBrfCD_-4" value="" style="endArrow=classic;html=1;fontColor=#004C99;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+        <mxCell id="9-BOeJJuR_DjumBrfCD_-4" value="" style="endArrow=classic;html=1;fontColor=#004C99;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="350" as="sourcePoint" />
             <mxPoint x="420" y="461.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9-BOeJJuR_DjumBrfCD_-6" value="" style="endArrow=classic;html=1;fontColor=#004C99;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+        <mxCell id="9-BOeJJuR_DjumBrfCD_-6" value="" style="endArrow=classic;html=1;fontColor=#004C99;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="242" y="471" as="sourcePoint" />
             <mxPoint x="412" y="471" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9-BOeJJuR_DjumBrfCD_-7" value="content volume mounted on both containers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#004C99;" vertex="1" parent="1">
+        <mxCell id="9-BOeJJuR_DjumBrfCD_-7" value="content volume mounted on both containers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#004C99;" parent="1" vertex="1">
           <mxGeometry x="30" y="342.5" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9-BOeJJuR_DjumBrfCD_-8" value="applogs volume mounted on nodejs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC6600;" vertex="1" parent="1">
+        <mxCell id="9-BOeJJuR_DjumBrfCD_-8" value="applogs volume mounted on nodejs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC6600;" parent="1" vertex="1">
           <mxGeometry x="30" y="468" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9-BOeJJuR_DjumBrfCD_-11" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="9-BOeJJuR_DjumBrfCD_-11" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="10" y="714" width="550" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9-BOeJJuR_DjumBrfCD_-9" value="media1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#004C99;fontStyle=1" vertex="1" parent="9-BOeJJuR_DjumBrfCD_-11">
+        <mxCell id="9-BOeJJuR_DjumBrfCD_-9" value="media1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#004C99;fontStyle=1" parent="9-BOeJJuR_DjumBrfCD_-11" vertex="1">
           <mxGeometry width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9-BOeJJuR_DjumBrfCD_-10" value="&lt;font color=&quot;#004c99&quot;&gt;mounted at /www/data/media/media1 on nginx and /media/media1 on nodejs&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#CC6600;" vertex="1" parent="9-BOeJJuR_DjumBrfCD_-11">
+        <mxCell id="9-BOeJJuR_DjumBrfCD_-10" value="&lt;font color=&quot;#004c99&quot;&gt;mounted at /www/data/media/media1 on nginx and /media/media1 on nodejs&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#CC6600;" parent="9-BOeJJuR_DjumBrfCD_-11" vertex="1">
           <mxGeometry x="70" y="18" width="480" height="20" as="geometry" />
         </mxCell>
       </root>
