@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-05T10:52:09.795Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="r0HhG0YjKGnPcR_w1ErX" version="15.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-05T10:53:07.541Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="eVguPmyXqy1nWDYQauHT" version="15.0.6" type="github" pages="2">
   <diagram id="6JVy9j8931lmVEFpkEkv" name="implicit">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -302,8 +302,8 @@
         <mxCell id="n3unK2Fm-ww2w19AF64P-36" value="(F)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontColor=#9933FF;" vertex="1" parent="yL5jFy0sweswb-XuXBIZ-1">
           <mxGeometry x="414" y="424.00195491980924" width="20" height="28.045080190723915" as="geometry" />
         </mxCell>
-        <mxCell id="n3unK2Fm-ww2w19AF64P-38" value="POST request with auth code to get access token" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#9933FF;" vertex="1" parent="yL5jFy0sweswb-XuXBIZ-1">
-          <mxGeometry x="243" y="415" width="160" height="20" as="geometry" />
+        <mxCell id="n3unK2Fm-ww2w19AF64P-38" value="POST request with auth code to get access token (jwt)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#9933FF;" vertex="1" parent="yL5jFy0sweswb-XuXBIZ-1">
+          <mxGeometry x="242" y="413" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="n3unK2Fm-ww2w19AF64P-40" value="(E)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontColor=#009900;" vertex="1" parent="yL5jFy0sweswb-XuXBIZ-1">
           <mxGeometry x="355" y="558.0019549198092" width="20" height="28.045080190723915" as="geometry" />
