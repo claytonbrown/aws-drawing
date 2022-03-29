@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T10:21:41.940Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="OcAkfiCHpKL8GvbmAnAJ" version="17.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-29T10:26:27.476Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="pUjvuaL4s4B4CYGXHTEx" version="17.1.5" type="github" pages="2">
   <diagram id="qAAxvI2N66q2RNYJOrqI" name="Page-1">
     <mxGraphModel dx="1022" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -247,7 +247,7 @@
         <mxCell id="XyIqBynNa2bsp_8kiUHq-40" value="VPN &lt;br&gt;connection" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4D27AA;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.vpn_connection;" vertex="1" parent="XyIqBynNa2bsp_8kiUHq-2">
           <mxGeometry x="482" y="298" width="29.62" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="XyIqBynNa2bsp_8kiUHq-41" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.tunnel_straight;fontSize=10;fontColor=#6600CC;rotation=90;" vertex="1" parent="XyIqBynNa2bsp_8kiUHq-2">
+        <mxCell id="XyIqBynNa2bsp_8kiUHq-41" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#6600CC;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.tunnel_straight;fontSize=10;fontColor=#6600CC;rotation=90;opacity=70;" vertex="1" parent="XyIqBynNa2bsp_8kiUHq-2">
           <mxGeometry x="485.25" y="343.25" width="118" height="14.5" as="geometry" />
         </mxCell>
         <mxCell id="XyIqBynNa2bsp_8kiUHq-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;fontColor=#6600CC;strokeColor=#FF8000;strokeWidth=2;" edge="1" parent="XyIqBynNa2bsp_8kiUHq-2" source="XyIqBynNa2bsp_8kiUHq-14" target="XyIqBynNa2bsp_8kiUHq-18">
