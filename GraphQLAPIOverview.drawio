@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T18:07:48.654Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" version="17.2.4" etag="D66w5EH64nA8V59W_yS4" type="github"><diagram id="HR-ztwO93CwpJqb8mCAe">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-30T18:12:55.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="VEnlQj8ZLnHMDlFK5e6D" version="17.2.4" type="github">
+  <diagram id="HR-ztwO93CwpJqb8mCAe" name="Page-1">
+    <mxGraphModel dx="782" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cMNd7rIfIgeKiUjHtPdR-1" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.lambda_function;" vertex="1" parent="1">
+          <mxGeometry x="346" y="170" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="cMNd7rIfIgeKiUjHtPdR-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_android_standalone;" vertex="1" parent="1">
+          <mxGeometry x="187" y="165" width="24" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="cMNd7rIfIgeKiUjHtPdR-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#333333;shape=mxgraph.azure.laptop;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="174" y="230" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cMNd7rIfIgeKiUjHtPdR-6" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_android_standalone;" vertex="1" parent="1">
+          <mxGeometry x="187" y="287" width="24" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="cMNd7rIfIgeKiUjHtPdR-7" value="customer TV app" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="99" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cMNd7rIfIgeKiUjHtPdR-8" value="customer mobile app" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="165" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cMNd7rIfIgeKiUjHtPdR-9" value="internal LAN facing&amp;nbsp; app" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="230" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cMNd7rIfIgeKiUjHtPdR-10" value="mobile executive app" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="294" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cMNd7rIfIgeKiUjHtPdR-11" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.tv;" vertex="1" parent="1">
+          <mxGeometry x="169.5" y="99" width="59" height="45" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
